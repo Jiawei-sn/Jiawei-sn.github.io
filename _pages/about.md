@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+这里写一段个人简介
+
 ## 教育背景及工作经历
 
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "孙佳伟的个人学术网站"
+title: "孙佳伟 Jiawei Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-## 教育经历
+## 教育背景及工作经历
 
-- **博士 (Dr.-Ing)**，光电信息科学，德国德累斯顿工业大学 (TU Dresden)，2019.10 - 2023.03
-  - 导师：Juergen Czarske教授
 
-- **硕士 (M.Sc)**，激光与光子学，德国波鸿大学 (Ruhr-University Bochum)，2016.10 - 2019.06
+**2019.10 - 至今，助理研究员（固定教职）**  
+德国德累斯顿工业大学 (TU Dresden)  
+测量与传感器系统实验室(MST)，生物医学计算激光系统技术中心(BIOLAS)
 
-- **学士 (B.Eng)**，信息对抗技术，西北工业大学，2012.09 - 2016.07
+**2023.03 - 至今，博士后**  
+德国德累斯顿工业大学 (TU Dresden), 导师：Juergen Czarske教授
 
-## 工作经历
+**2019.10 - 2023.03，博士**  
+德国德累斯顿工业大学 (TU Dresden)，光电信息科学, 导师：Juergen Czarske教授
 
-- **助理研究员（正式教职）**，德国德累斯顿工业大学 (TU Dresden)，测量与传感器系统实验室(MST)，生物医学计算激光系统技术中心(BIOLAS)，2019.10 - 至今
+**2016.10 - 2019.06，硕士**  
+德国波鸿大学 (Ruhr-University Bochum)，激光与光子学, 导师：Martin Hofmann教授
 
-- **博士后**，德国德累斯顿工业大学 (TU Dresden)，2023.03 - 2023.09
+**2012.09 - 2016.07，学士**  
+西北工业大学，信息技术
+
+
+
+
+
+
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

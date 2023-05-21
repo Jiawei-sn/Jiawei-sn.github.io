@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: https://twitter.com/JiaweiSun_
-  username               : &twitter "@JiaweiSun_"
+  username               :  "@JiaweiSun_" #&twitter
 facebook:
   username               :
   app_id                 :

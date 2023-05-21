@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-这里写一段个人简介
+孙佳伟的个人简介
+
+
+## 联系方式
+地址：Barkhausenbau, BAR 26, 01069 Dresden, Germany\
+Email: jiawei.sun@tu-dresden.de
 
 ## 教育背景及工作经历
 

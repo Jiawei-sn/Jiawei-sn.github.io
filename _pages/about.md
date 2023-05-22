@@ -112,7 +112,7 @@ AME Publishing: *Quantitative Imaging in Medicine and Surgery*
 
 *Finished:* 
 - Jie Zhang "Real-time quantitative phase imaging through an ultra-thin lensless microendoscope" (Bachelor Thesis) 满分(1.0/1.0) \
-  该论文荣获**2023年 Gisela and Erwin Sick Measurement and Sensor Technology Prize**
+  **该论文荣获 2023 Gisela and Erwin Sick Measurement and Sensor Technology Prize**
 - Chengxiao Wang "Optical Diffraction Tomography Using Multi-axis Cell Rotation with Isotropic Resolution"  (Bachelor Thesis) 满分(1.0/1.0)
 - Bin Yang "Optimization of 3D Optical Projection Tomographic Reconstruction via Computer Vision and Deep Learning" (Bachelor Thesis) 满分(1.0/1.0)
 - Alexander Echeverría Kientzle, Nikolas Wohlgemuth, Vireak Dam "Analysis of fiber-optic cell-rotation using computer vision" (Student Project) 满分(1.0/1.0)

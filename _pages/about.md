@@ -24,7 +24,7 @@ Email: jiawei.sun@tu-dresden.de
 
 **2023.03 - 至今，博士后，** 德累斯顿工业大学 (TU Dresden), 导师：Juergen Czarske教授
 
-**2019.10 - 2023.03，博士，** 德累斯顿工业大学 (TU Dresden)，光电信息科学, 导师：Juergen Czarske教授
+**2019.10 - 2023.03，博士，** 德累斯顿工业大学 (TU Dresden)，光电信息, 导师：Juergen Czarske教授
 
 **2016.10 - 2019.06，硕士，** 波鸿大学 (Ruhr-University Bochum)，激光与光子学, 导师：Martin Hofmann教授
 

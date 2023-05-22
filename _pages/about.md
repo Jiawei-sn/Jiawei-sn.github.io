@@ -70,12 +70,12 @@ AME Publishing: *Quantitative Imaging in Medicine and Surgery*
 ## Publication List
 
 ### Journal Articles
-1. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (LSA top downloaded papers) (IF 20.257)
+1. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (IF 20.257)  **2022 LSA top downloaded papers**
 2. **Jiawei Sun**, Juergen W Czarske, “Compressive holographic sensing simplifies quantitative phase imaging”, *Light: Science & Applications*, 2023 (IF 20.257)
-3. **Jiawei Sun**\*, J. Wu\*, N. Koukourakis, R. Kuschmierz, Liangcai Cao, J. Czarske\*, Real-time complex light field generation through a multi-core fiber with deep learning”, *Nature Scientific Reports*, 2022 (IF 4.996)
+3. **Jiawei Sun**\*, Jiachen Wu\*, Nektarios Koukourakis, Robert Kuschmierz, Liangcai Cao, Juerge Czarske\*, Real-time complex light field generation through a multi-core fiber with deep learning”, *Nature Scientific Reports*, 2022 (IF 4.996)
 4. **Jiawei Sun**\*, Nektarios Koukourakis, Jochen Guck, and Jürgen W. Czarske, “Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber”, *Biomedical Optics Express*, 2021
 5. **Jiawei Sun**, Nektarios Koukourakis\*, and Jürgen W. Czarske, "Complex Wavefront Shaping through a Multi‐Core Fiber", *Applied Sciences*, 2021
-<u>**Jiawei Sun**</u>*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis*, Juergen W Czarske*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (LSA top downloaded papers) (IF 20.257 中科院一区TOP) 
+
 
 ### Book Publication
 1. **Jiawei Sun**, “Learning-based Three-Dimensional Optical Cell Rotation Tomography and Quantitative Phase Imaging Using Multi-Core Fibers.” Dresdner Berichte zur Messsystemtechnik, 19. Düren: Shaker Verlag, 2023. ISBN: 9783844090529.

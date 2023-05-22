@@ -70,7 +70,7 @@ AME Publishing: *Quantitative Imaging in Medicine and Surgery*
 ## Publication List
 
 ### Peer-reviewed Journal Articles
-1. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (IF 20.257)  **2022 LSA top downloaded papers**
+1. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (IF 20.257)  **LSA top downloaded papers in 2022**
 2. **Jiawei Sun**, Juergen W Czarske, “Compressive holographic sensing simplifies quantitative phase imaging”, *Light: Science & Applications*, 2023 (IF 20.257)
 3. **Jiawei Sun**\*, Jiachen Wu\*, Nektarios Koukourakis, Robert Kuschmierz, Liangcai Cao, Juerge Czarske\*, Real-time complex light field generation through a multi-core fiber with deep learning”, *Nature Scientific Reports*, 2022 (IF 4.996)
 4. **Jiawei Sun**\*, Nektarios Koukourakis, Jochen Guck, and Jürgen W. Czarske, “Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber”, *Biomedical Optics Express*, 2021
@@ -81,15 +81,15 @@ AME Publishing: *Quantitative Imaging in Medicine and Surgery*
 1. **Jiawei Sun**, “Learning-based Three-Dimensional Optical Cell Rotation Tomography and Quantitative Phase Imaging Using Multi-Core Fibers.” Dresdner Berichte zur Messsystemtechnik, 19. Düren: Shaker Verlag, 2023. ISBN: 9783844090529.
 
 ### International Conference Presentations
-1. **Jiawei Sun**, Nektarios Koukourakis and Jürgen W. Czarske\*, “3D cell rotation in multicore fiber-based optical diffraction tomography with isotropic resolution using deep learning”, SPIE Optics and Photonics 2023, San Diego, CA, USA (Oral)
-2. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Learning-based quantitative phase imaging through an ultra-thin lens-free fiber microendoscope”, SPIE Photonics West, 2023, San Francisco, CA, USA (Oral) 
-3. Jie Zhang, **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen Czarske, “Lensless microendoscope: ultra-thin nanoscale surface imaging probe”, International Conference on Optical and Photonic Engineering (icOPEN) 2022, Nanjing, China (Oral) 
-4. **Jiawei Sun**\*, Nektarios Koukourakis and Jürg3. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Real-time quantitative phase imaging through a multicore fiber using deep learning”, SPIE Photonics Asia 2022, Nantong, China (Oral) 
-5. **Jiawei Sun**\*, N. Koukourakis and J. Czarske, “Multi-Dimensional Cell Rotation with Multi-Core Fibers and Wavefront Shaping”, Congress of the International Commission for Optics (ICO) 2022, Dresden, Germany (Oral) 
-**该工作获得SPIE Student Best Paper Prize**
-7. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “3D cell-rotation using multi-core fiber-based lab-on-a-chip for optical tomography”, SPIE Optics and Photonics 2022, San Diego, CA, USA (Oral)
-8. **Jiawei Sun**\*, N. Dunkelberg, N. Koukourakis, R. Kuschmierz, J. W. Czarske and J. Guck, “Multi-dimensional cell-rotation using multi-core fibers and wavefront shaping”, SPIE Photonics West 2021, San Francisco, CA, USA (Oral)
-9. Krisztian Neutsch, L. Schnitzler, **Jiawei Sun**, M. J Tranelis, Martin R Hofmann, Nils C Gerhardt, “In-depth particle localization with common-path digital holographic microscopy”, SPIE Photonics West 2020, San Francisco, CA, USA (Oral)
+1. **Jiawei Sun**\*, N. Koukourakis and J. Czarske, “Multi-Dimensional Cell Rotation with Multi-Core Fibers and Wavefront Shaping”, Congress of the International Commission for Optics (ICO) 2022, Dresden, Germany (Oral) 
+**荣获国际光学工程学会颁发的“最佳学生论文奖” SPIE Student Best Paper Prize**
+2. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Learning-based quantitative phase imaging through an ultra-thin lens-free fiber microendoscope”, SPIE Photonics West, 2023, San Francisco, CA, USA (Oral) **荣获SPIE Student Conference Travel Grant**
+3. **Jiawei Sun**, Nektarios Koukourakis and Jürgen W. Czarske\*, “3D cell rotation in multicore fiber-based optical diffraction tomography with isotropic resolution using deep learning”, SPIE Optics and Photonics 2023, San Diego, CA, USA (Oral)
+4. Jie Zhang, **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen Czarske, “Lensless microendoscope: ultra-thin nanoscale surface imaging probe”, International Conference on Optical and Photonic Engineering (icOPEN) 2022, Nanjing, China (Oral) 
+5. **Jiawei Sun**\*, Nektarios Koukourakis and Jürg3. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Real-time quantitative phase imaging through a multicore fiber using deep learning”, SPIE Photonics Asia 2022, Nantong, China (Oral) 
+6. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “3D cell-rotation using multi-core fiber-based lab-on-a-chip for optical tomography”, SPIE Optics and Photonics 2022, San Diego, CA, USA (Oral)
+7. **Jiawei Sun**\*, N. Dunkelberg, N. Koukourakis, R. Kuschmierz, J. W. Czarske and J. Guck, “Multi-dimensional cell-rotation using multi-core fibers and wavefront shaping”, SPIE Photonics West 2021, San Francisco, CA, USA (Oral)
+8. Krisztian Neutsch, L. Schnitzler, **Jiawei Sun**, M. J Tranelis, Martin R Hofmann, Nils C Gerhardt, “In-depth particle localization with common-path digital holographic microscopy”, SPIE Photonics West 2020, San Francisco, CA, USA (Oral)
 
 ### Invited Talks
 1. **Jiawei Sun**\*, Bin Yang, Nektarios Koukourakis and Jürgen W. Czarske,"Computational multicore fiber-optic cell rotation tomography with isotropic 3D resolution", The 14th International Conference on Information Optics and Photonics (CIOP 2023), Xi'an, China, Aug. 2023

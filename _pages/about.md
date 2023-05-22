@@ -67,13 +67,38 @@ OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters* \
 AME Publishing: *Quantitative Imaging in Medicine and Surgery* 
 
 
+## Publication List
+
+### Journal Articles
+1. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (LSA top downloaded papers) (IF 20.257)
+2. **Jiawei Sun**, Juergen W Czarske, “Compressive holographic sensing simplifies quantitative phase imaging”, *Light: Science & Applications*, 2023 (IF 20.257)
+3. **Jiawei Sun**\*, J. Wu\*, N. Koukourakis, R. Kuschmierz, Liangcai Cao, J. Czarske\*, Real-time complex light field generation through a multi-core fiber with deep learning”, *Nature Scientific Reports*, 2022 (IF 4.996)
+4. **Jiawei Sun**\*, Nektarios Koukourakis, Jochen Guck, and Jürgen W. Czarske, “Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber”, *Biomedical Optics Express*, 2021
+5. **Jiawei Sun**, Nektarios Koukourakis\*, and Jürgen W. Czarske, "Complex Wavefront Shaping through a Multi‐Core Fiber", *Applied Sciences*, 2021
+<u>**Jiawei Sun**</u>*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis*, Juergen W Czarske*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (LSA top downloaded papers) (IF 20.257 中科院一区TOP) 
+
+### Book Publication
+1. **Jiawei Sun**, “Learning-based Three-Dimensional Optical Cell Rotation Tomography and Quantitative Phase Imaging Using Multi-Core Fibers.” Dresdner Berichte zur Messsystemtechnik, 19. Düren: Shaker Verlag, 2023. ISBN: 9783844090529.
+
+### Conference Papers
+1. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Learning-based quantitative phase imaging through an ultra-thin lens-free fiber microendoscope”, SPIE Photonics West, 2023 (Oral) 
+2. Jie Zhang(本人指导的硕士生), **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen Czarske, “Lensless microendoscope: ultra-thin nanoscale surface imaging probe”, icOPEN, 2022 (Oral) 
+3. **Jiawei Sun**\*, Nektarios Koukourakis and Jürg
 
 
 
+## 指导学生情况
+*Ongoing:* 
+- Bin Yang "Optical diffraction tomography towards label-free 3D imaging of embryos" (Master Thesis)
+- Vireak Dam "Physical model based deep neural network for quantitative phase imaging through a multi-core fiber"  (Bachelor Thesis)
+
+*Finished:* 
+- Jie Zhang "Real-time quantitative phase imaging through an ultra-thin lensless microendoscope" (Bachelor Thesis) 满分(1.0/1.0) \
+  指导的该论文获得**2023年 Gisela and Erwin Sick Measurement and Sensor Technology Prize**
+- Chengxiao Wang "Optical Diffraction Tomography Using Multi-axis Cell Rotation with Isotropic Resolution"  (Bachelor Thesis) 满分(1.0/1.0)
+- Bin Yang "Optimization of 3D Optical Projection Tomographic Reconstruction via Computer Vision and Deep Learning" (Bachelor Thesis) 满分(1.0/1.0)
+- Alexander Echeverría Kientzle, Nikolas Wohlgemuth, Vireak Dam "Analysis of fiber-optic cell-rotation using computer vision" (Student Project) 满分(1.0/1.0)
 
 
-
-**2023.04，Gisela and Erwin Sick Measurement and Sensor Technology Prize**
-本人指导的本科论文获得此奖项。
 
 

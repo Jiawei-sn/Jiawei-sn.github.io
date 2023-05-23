@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "孙佳伟 Jiawei Sun" #"Your Name / Site Title"
+title                    : "孙佳伟 Jiawei Sun / 德累斯顿工业大学" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "孙佳伟 Jiawei Sun"
 description              : &description "孙佳伟的个人学术网站"

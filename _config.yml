@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "孙佳伟 Jiawei Sun - 德累斯顿工业大学 TU Dresden" #"Your Name / Site Title"
+title                    : "孙佳伟 Jiawei Sun" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "孙佳伟 Jiawei Sun"
+name                     : &name "孙佳伟 Jiawei Sun - 德累斯顿工业大学 TU Dresden"
 description              : &description "孙佳伟的个人学术网站"
 url                      : https://jiawei-sn.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

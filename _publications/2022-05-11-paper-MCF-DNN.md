@@ -7,6 +7,7 @@ venue: 'Scientific Reports (Nature Publishing)'
 paperurl: 'https://www.nature.com/articles/s41598-022-11803-7'
 citation: 'Sun, J., Wu, J., Koukourakis, N. et al. Real-time complex light field generation through a multi-core fiber with deep learning. Sci Rep 12, 7732 (2022).'
 ---
+
 ## Structure of the phase encoder deep neural network (CoreNet)
 ![Structure of the phase encoder deep neural network (CoreNet)](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-11803-7/MediaObjects/41598_2022_11803_Fig1_HTML.png?as=webp "Figure: Structure of the phase encoder deep neural network (CoreNet).")
 

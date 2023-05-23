@@ -1,7 +1,7 @@
 ---
 title: "Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber"
 collection: publications
-permalink: /publication/2021-06-01-cell-rotation-BOE.md
+permalink: /publication/2021-06-01-cell-rotation-BOE
 excerpt: 'Download: [PDF Download](https://opg.optica.org/boe/viewmedia.cfm?uri=boe-12-6-3423&seq=0)'
 date: 2021-06-01
 venue: 'Biomedical Optics Express'

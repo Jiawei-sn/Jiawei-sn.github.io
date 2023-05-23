@@ -51,8 +51,8 @@ Email: jiawei.sun@tu-dresden.de
 
 ## 学术任职
 
--  **2023.05 - 至今：Photonics（SCI期刊）, 客座编辑** \
-  Special Issue "Emerging Topics in High-Power Laser and Light–Matter Interactions"  [Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600) \
+-  **2023.05 - 至今：Photonics (SCI期刊), 客座编辑** \
+  Special Issue "Emerging Topics in High-Power Laser and Light–Matter Interactions"  [投稿链接Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)
 - 2021.10 - 2023.01：国际光学工程学会 (SPIE) 德累斯顿学生分会, 部长
 - 2022.01 - 2023.01：美国光学学会 (OPTICA/OSA) 德累斯顿学生分会, 部长及创始人之一
 - 2016.11 - 2018.11：波鸿中国学生学者联合会, 干事

@@ -75,7 +75,7 @@ AME Publishing: *Quantitative Imaging in Medicine and Surgery*
 2. **Jiawei Sun**, Juergen W Czarske, “Compressive holographic sensing simplifies quantitative phase imaging”, *Light: Science & Applications*, 2023 (IF 20.257)
 3. **Jiawei Sun**\*, Jiachen Wu\*, Nektarios Koukourakis, Robert Kuschmierz, Liangcai Cao, Juerge Czarske\*, Real-time complex light field generation through a multi-core fiber with deep learning”, *Nature Scientific Reports*, 2022 (IF 4.996)
 4. **Jiawei Sun**\*, Nektarios Koukourakis, Jochen Guck, and Jürgen W. Czarske, “Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber”, *Biomedical Optics Express*, 2021
-5. **Jiawei Sun**, Nektarios Koukourakis\*, and Jürgen W. Czarske, "Complex Wavefront Shaping through a Multi‐Core Fiber", *Applied Sciences*, 2021
+5. **Jiawei Sun**, Nektarios Koukourakis\*, and Jürgen W. Czarske, "Complex Wavefront Shaping through a Multi‐Core Fiber", *Applied Sciences*, 2021 **Highly viewed papers in Section "Optics and Lasers"** [Link](https://twitter.com/Applsci/status/1648317713968922624) **Highly cited papers in Section "Optics and Lasers"** [Link](https://www.linkedin.com/feed/update/urn:li:share:7054022286026113025/)
 
 
 ### Book Publication

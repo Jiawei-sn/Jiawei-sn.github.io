@@ -33,14 +33,15 @@ Email: jiawei.sun@tu-dresden.de
 
 ## 获奖与荣誉(Selected)
 
-- **2023年 Siegfried Werth 奖** [新闻链接](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
+- **2023年7月 Siegfried Werth 奖** [新闻链接](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
 该奖项自1988年起，每年颁发给1-3名非接触式尺寸测量领域的杰出青年科学家
 
-- **2023年 Heinrich Barkhausen 奖** 德累斯顿工业大学电子信息学院最佳博士论文 2023年唯一获奖者\
+- **2023年11月 Heinrich Barkhausen 奖 (2023年唯一获奖者)**
+德累斯顿工业大学电子信息学院最佳博士论文 
 
 - **2022年 《麻省理工科技评论》(MIT Technology Review)杂志个人封面专访** [新闻链接](https://www.mittrchina.com/news/detail/10930)
 
-- **2023年 德累斯顿工业大学博士学位最高荣誉 (summa cum laude)** [新闻链接](https://tu-dresden.de/ing/elektrotechnik/iee/mst/forschung/promotionen/copy_of_dr-ing-Stefan_Rothe?set_language=en#)
+- **2023年3月 德累斯顿工业大学博士学位最高荣誉 (summa cum laude)** [新闻链接](https://tu-dresden.de/ing/elektrotechnik/iee/mst/forschung/promotionen/copy_of_dr-ing-Stefan_Rothe?set_language=en#)
 
 - **2022年09月 国际光学工程学会“最佳学生论文奖” SPIE Student Best Paper Prize**
 

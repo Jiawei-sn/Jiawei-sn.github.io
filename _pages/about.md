@@ -33,8 +33,10 @@ Email: jiawei.sun@tu-dresden.de
 
 ## 获奖与荣誉(Selected)
 
-- **2023年度 Siegfried Werth 奖** [新闻链接](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
-该奖项自1988年起，每年颁发给1-3名非接触式尺寸测量领域的杰出青年科学家  
+- **2023年 Siegfried Werth 奖** [新闻链接](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
+该奖项自1988年起，每年颁发给1-3名非接触式尺寸测量领域的杰出青年科学家
+
+- **2023年 Heinrich Barkhausen 奖** 德累斯顿工业大学电子信息学院最佳博士论文 2023年唯一获奖者\
 
 - **2022年 《麻省理工科技评论》(MIT Technology Review)杂志个人封面专访** [新闻链接](https://www.mittrchina.com/news/detail/10930)
 
@@ -62,7 +64,7 @@ Email: jiawei.sun@tu-dresden.de
 - IEEE member (电气与电子工程师协会)
 
 - **担任期刊审稿人:** \
-Springer Nature: *Advanced Fiber Materials (IF 12.958), Light: Science & Applications (IF 20.257), Journal of the European Optical Society* \
+Springer Nature: *Advanced Fiber Materials (IF 12.958), Light: Science & Applications (IF 20.257), Light: Advanced Manufacturing， Journal of the European Optical Society* \
 Science Partner Journals (AAAS): *Intelligent Computing* \
 OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters* \
 AME Publishing: *Quantitative Imaging in Medicine and Surgery* 

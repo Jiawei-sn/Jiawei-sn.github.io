@@ -33,17 +33,18 @@ Email: jiawei.sun@tu-dresden.de
 
 ## 获奖与荣誉(Selected)
 
-- **2023年7月 Siegfried Werth 奖** [新闻链接](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
+- **2023年11月 Heinrich Barkhausen Prize (Carl-Friedrich-von-Siemens Foundation) (2023年唯一获奖者)**
+
+- **2023年7月 Siegfried Werth Prize** [新闻链接](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
 该奖项自1988年起，每年颁发给1-3名非接触式尺寸测量领域的杰出青年科学家
 
-- **2023年11月 Heinrich Barkhausen 奖 (2023年唯一获奖者)**
-德累斯顿工业大学电子信息学院最佳博士论文 
+- **2024年5月 University Prize for Measurement Systems Engineering (Gisela and Erwin Sick Foundation)**
+
+- **2022年09月 国际光学工程学会“最佳学生论文奖” SPIE Student Best Paper Prize**
 
 - **2022年 《麻省理工科技评论》(MIT Technology Review)杂志个人封面专访** [新闻链接](https://www.mittrchina.com/news/detail/10930)
 
-- **2023年3月 德累斯顿工业大学博士学位最高荣誉 (summa cum laude)** [新闻链接](https://tu-dresden.de/ing/elektrotechnik/iee/mst/forschung/promotionen/copy_of_dr-ing-Stefan_Rothe?set_language=en#)
-
-- **2022年09月 国际光学工程学会“最佳学生论文奖” SPIE Student Best Paper Prize**
+- 2023年3月 德累斯顿工业大学博士学位最高荣誉 (summa cum laude)
 
 - 2023年 Top downloaded papers of Light: Science & Applications in 2022 [Paper Link](https://www.nature.com/articles/s41377-022-00898-2)
 
@@ -65,11 +66,11 @@ Email: jiawei.sun@tu-dresden.de
 - IEEE member (电气与电子工程师协会)
 
 - **担任期刊审稿人:** \
-Springer Nature: *Advanced Fiber Materials (IF 12.958), Light: Science & Applications (IF 20.257), Light: Advanced Manufacturing， Journal of the European Optical Society* \
+Springer Nature: *Communications Physics, Communications Biology, Light: Science & Applications, Light: Advanced Manufacturing，Advanced Fiber Materials, Journal of the European Optical Society* \
 Science Partner Journals (AAAS): *Intelligent Computing* \
 OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters* \
-AME Publishing: *Quantitative Imaging in Medicine and Surgery* 
-
+Wiley: *Laser & Photonics Reviews*\
+IEEE: IEEE Transactions on Computational Imaging
 
 ## Publication List
 
@@ -114,12 +115,15 @@ AME Publishing: *Quantitative Imaging in Medicine and Surgery*
 
 ## 指导学生情况
 *Ongoing:* 
-- Bin Yang "Optical diffraction tomography towards label-free 3D imaging of embryos" (Master Thesis)
 - Vireak Dam "Physical model based deep neural network for quantitative phase imaging through a multi-core fiber"  (Bachelor Thesis)
 
 *Finished:* 
 - Jie Zhang "Real-time quantitative phase imaging through an ultra-thin lensless microendoscope" (Bachelor Thesis) 满分(1.0/1.0) \
   **该论文荣获 2023 Gisela and Erwin Sick Measurement and Sensor Technology Prize**
+  **荣获Silicon Science Award for the excellent Bachelor Thesis** [Link](https://www-cismst-de.translate.goog/en/news-2023-09-05-en/?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc)
+  **荣获德国激光协会（WLT）Theodore-Maiman-Scholarship 2023**[Link](https://www.wlt.de/theodore-maiman-stipendium)
+  ****
+- Bin Yang "Optical diffraction tomography towards label-free 3D imaging of embryos" (Master Thesis) 满分(1.0/1.0)
 - Chengxiao Wang "Optical Diffraction Tomography Using Multi-axis Cell Rotation with Isotropic Resolution"  (Bachelor Thesis) 满分(1.0/1.0)
 - Bin Yang "Optimization of 3D Optical Projection Tomographic Reconstruction via Computer Vision and Deep Learning" (Bachelor Thesis) 满分(1.0/1.0)
 - Alexander Echeverría Kientzle, Nikolas Wohlgemuth, Vireak Dam "Analysis of fiber-optic cell-rotation using computer vision" (Student Project) 满分(1.0/1.0)

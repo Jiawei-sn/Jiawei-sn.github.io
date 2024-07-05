@@ -74,11 +74,14 @@ AME Publishing: *Quantitative Imaging in Medicine and Surgery*
 ## Publication List
 
 ### Peer-reviewed Journal Articles
-1. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, “Quantitative phase imaging through an ultra-thin lensless fiber endoscope”, *Light: Science & Applications*, 2022 (IF 20.257)  **LSA top downloaded papers in 2022**
-2. **Jiawei Sun**, Juergen W Czarske, “Compressive holographic sensing simplifies quantitative phase imaging”, *Light: Science & Applications*, 2023 (IF 20.257)
-3. **Jiawei Sun**\*, Jiachen Wu\*, Nektarios Koukourakis, Robert Kuschmierz, Liangcai Cao, Juerge Czarske\*, Real-time complex light field generation through a multi-core fiber with deep learning”, *Nature Scientific Reports*, 2022 (IF 4.996)
-4. **Jiawei Sun**\*, Nektarios Koukourakis, Jochen Guck, and Jürgen W. Czarske, “Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber”, *Biomedical Optics Express*, 2021
-5. **Jiawei Sun**, Nektarios Koukourakis\*, and Jürgen W. Czarske, "Complex Wavefront Shaping through a Multi‐Core Fiber", *Applied Sciences*, 2021 **Highly viewed papers in Section "Optics and Lasers"** [Link](https://twitter.com/Applsci/status/1648317713968922624) **Highly cited papers in Section "Optics and Lasers"** [Link](https://www.linkedin.com/feed/update/urn:li:share:7054022286026113025/)
+1. **Jiawei Sun**\*, Bin Yang,  Nektarios Koukourakis, Jochen Guck, Juergen W Czarske\*, "AI-driven projection tomography with multicore fibre-optic cell rotation", *Nature Communications*, 2024
+2. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, "Quantitative phase imaging through an ultra-thin lensless fiber endoscope", *Light: Science & Applications*, 2022  **LSA top downloaded papers in 2022**
+3. **Jiawei Sun**, Robert Kuschmierz, Ori Katz, Nektarios Koukourakis, Juergen W Czarske\*, "Lensless fiber endomicroscopy in biomedicine", *PhotoniX*, 2024
+4. **Jiawei Sun**, Juergen W Czarske, “Compressive holographic sensing simplifies quantitative phase imaging”, *Light: Science & Applications*, 2023
+5. **Jiawei Sun**, Bin Zhao*, D. Wang, Z. Wang, J. Zhang, N. Koukourakis, J. Czarske, Xuelong Li*, "Calibration-free quantitative phase imaging in multi-core fiber endoscopes using end-to-end deep learning", *Optics Letters*, 2024
+6. **Jiawei Sun**\*, Jiachen Wu\*, Nektarios Koukourakis, Robert Kuschmierz, Liangcai Cao, Juerge Czarske\*, "Real-time complex light field generation through a multi-core fiber with deep learning", *Nature Scientific Reports*, 2022
+7. **Jiawei Sun**\*, Nektarios Koukourakis, Jochen Guck, and Jürgen W. Czarske, "Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber", *Biomedical Optics Express*, 2021
+8. **Jiawei Sun**, Nektarios Koukourakis\*, and Jürgen W. Czarske, "Complex Wavefront Shaping through a Multi‐Core Fiber", *Applied Sciences*, 2021 **Highly viewed papers in Section "Optics and Lasers"** [Link](https://twitter.com/Applsci/status/1648317713968922624) **Highly cited papers in Section "Optics and Lasers"** [Link](https://www.linkedin.com/feed/update/urn:li:share:7054022286026113025/)
 
 
 ### Book Publication

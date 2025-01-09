@@ -9,26 +9,27 @@ redirect_from:
 ---
 
 
-**研究方向：光纤成像、计算成像、光场调控、智能感知** 
+**Research Interests: Fiber Imaging, Computational Imaging, Light Field Control, Intelligent Perception**
 
-
-**联系方式：** \
-地址：Barkhausenbau, BAR 26, 01069 Dresden, Germany\
+**Contact Information:** \
+Address: Barkhausenbau, BAR 26, 01069 Dresden, Germany\
 Email: jiawei.sun@tu-dresden.de
 
-## 教育背景及工作经历
+## Work Experience
 
+**October 2019 - Present, Research Associate,** TU Dresden \
+Competence Center for Biomedical Computational Laser Systems (BIOLAS)
+Laboratory of Measurement and Sensor System Technique (MST)
 
-**2019.10 - 至今，助理研究员，** 德累斯顿工业大学 (TU Dresden) \
-测量与传感器系统实验室(MST)，生物医学计算激光系统技术中心(BIOLAS)
+**Sep 2023 - Dec 2024, Young Investigator,** Shanghai AI Lab
 
-**2023.03 - 至今，博士后，** 德累斯顿工业大学 (TU Dresden), 导师：Juergen Czarske教授
+## Education
 
-**2019.10 - 2023.03，博士，** 德累斯顿工业大学 (TU Dresden)，光电信息, 导师：Juergen Czarske教授
+**Oct 2019 - March 2023, Ph.D.,** TU Dresden, Germany, Advisor: Juergen Czarske
 
-**2016.10 - 2019.06，硕士，** 波鸿大学 (Ruhr-University Bochum)，激光与光子学, 导师：Martin Hofmann教授
+**Oct 2016 - June 2019, M.Sc.,** Ruhr-University Bochum, Germany, Advisor: Martin Hofmann
 
-**2012.09 - 2016.07，学士，** 西北工业大学，信息技术
+**Sep 2012 - July 2016, B.Eng.,** Northwestern Polytechnical University, China
 
 
 ## 获奖与荣誉(Selected)

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "孙佳伟 Jiawei Sun"
+title: "Jiawei Sun (孙佳伟)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,19 +9,18 @@ redirect_from:
 ---
 
 
-**Research Interests: Fiber Imaging, Computational Imaging, Light Field Control, Intelligent Perception**
+**Research Interests: Lensless fiber-optic imaging, Optical manipulation, AI-driven optical tomography**
 
 **Contact Information:** \
-Address: Barkhausenbau, BAR 26, 01069 Dresden, Germany\
 Email: jiawei.sun@tu-dresden.de
 
 ## Work Experience
 
-**Oct 2019 - Present, Research Associate,** TU Dresden \
-Competence Center for Biomedical Computational Laser Systems (BIOLAS)
+**Oct 2019 - Present, Research Associate,** TU Dresden, Germany \
+Competence Center for Biomedical Computational Laser Systems (BIOLAS) \
 Laboratory of Measurement and Sensor System Technique (MST)
 
-**Sep 2023 - Dec 2024, Young Investigator,** Shanghai AI Lab
+**Sep 2023 - Dec 2024, Young Investigator,** Shanghai AI Lab, China
 
 ## Education
 
@@ -32,39 +31,37 @@ Laboratory of Measurement and Sensor System Technique (MST)
 **Sep 2012 - July 2016, B.Eng.,** Northwestern Polytechnical University, China
 
 
-## 获奖与荣誉(Selected)
+## Awards and Honors (Selected)
 
-- **2023年11月 Heinrich Barkhausen Prize (Carl-Friedrich-von-Siemens Foundation) (2023年唯一获奖者)**
+- **2023 Heinrich Barkhausen Prize (Carl-Friedrich-von-Siemens Foundation)**
 
-- **2023年7月 Siegfried Werth Prize** [新闻链接](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
-该奖项自1988年起，每年颁发给1-3名非接触式尺寸测量领域的杰出青年科学家
+- **2023 Siegfried Werth Prize** [News Link](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
 
-- **2024年5月 University Prize for Measurement Systems Engineering (Gisela and Erwin Sick Foundation)**
+- **2024 University Prize for Measurement Systems Engineering (Gisela and Erwin Sick Foundation)**
 
-- **2022年09月 国际光学工程学会“最佳学生论文奖” SPIE Student Best Paper Prize**
+- **September 2022 SPIE Student Best Paper Prize**
 
-- **2022年 《麻省理工科技评论》(MIT Technology Review)杂志个人封面专访** [新闻链接](https://www.mittrchina.com/news/detail/10930)
+- **2022 Cover Interview in MIT Technology Review** [Link](https://www.mittrchina.com/news/detail/10930) (in Chinese)
 
-- 2023年3月 德累斯顿工业大学博士学位最高荣誉 (summa cum laude)
+- **2023 Highest Honor for Doctoral Degree from TU Dresden (summa cum laude)**
 
-- 2023年 Top downloaded papers of Light: Science & Applications in 2022 [Paper Link](https://www.nature.com/articles/s41377-022-00898-2)
+- 2023 Top downloaded papers of Light: Science & Applications in 2022 [Paper Link](https://www.nature.com/articles/s41377-022-00898-2)
 
-- 2023年01月 SPIE Student Conference Travel Grant (Photonics West 2023)
-
-- 2015年 十四届“挑战杯”全国大学生课外学术科技作品  全国三等奖
+- SPIE Student Conference Travel Grant (Photonics West 2023)
 
 
-## 学术任职
 
--  **2023.05 - 至今：Photonics (SCI期刊), 客座编辑** \
-  Special Issue "Emerging Topics in High-Power Laser and Light–Matter Interactions"  [投稿链接Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)
-- 2021.10 - 2023.01：国际光学工程学会 (SPIE) 德累斯顿学生分会, 部长
-- 2022.01 - 2023.01：美国光学学会 (OPTICA/OSA) 德累斯顿学生分会, 部长及创始人之一
-- 2016.11 - 2018.11：波鸿中国学生学者联合会, 干事
-- 中国光学学会会员
-- OPTICA member (美国光学学会)
-- SPIE member (国际光学工程学会)
-- IEEE member (电气与电子工程师协会)
+## Academic Activities
+
+- **May 2023 - Present: Guest Editor, Photonics (peer review journal)** \
+  Special Issue "Emerging Topics in High-Power Laser and Light–Matter Interactions" [Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)
+
+- **October 2021 - January 2023: Secretary, SPIE Student Chapter TU Dresden**
+
+- **January 2022 - January 2023: Secretary and Co-Founder, OPTICA/OSA Student Chapter TU Dresden**
+- OPTICA member
+- SPIE member 
+- IEEE member
 
 - **担任期刊审稿人:** \
 Springer Nature: *Communications Physics, Communications Biology, Light: Science & Applications, Light: Advanced Manufacturing，Advanced Fiber Materials, Journal of the European Optical Society* \

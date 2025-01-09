@@ -120,7 +120,7 @@ Chinese Laser Press: *Advanced Imaging, Laser & Optoelectronics Progress, Acta O
   **Awarded Silicon Science Award for the excellent Bachelor Thesis** [Link](https://www-cismst-de.translate.goog/en/news-2023-09-05-en/?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc)\
   **Awarded（WLT）Theodore-Maiman-Scholarship 2023**[Link](https://www.wlt.de/theodore-maiman-stipendium)\
 
-- Bin Yang "Optical diffraction tomography towards label-free 3D imaging of embryos" (Master Thesis) 满分(1.0/1.0)
+- Bin Yang "Optical diffraction tomography towards label-free 3D imaging of embryos" (Master Thesis) (Highest mark 1.0/1.0)
 - Chengxiao Wang "Optical Diffraction Tomography Using Multi-axis Cell Rotation with Isotropic Resolution"  (Bachelor Thesis) (Highest mark 1.0/1.0)
 - Bin Yang "Optimization of 3D Optical Projection Tomographic Reconstruction via Computer Vision and Deep Learning" (Bachelor Thesis) (Highest mark 1.0/1.0)
 - Alexander Echeverría Kientzle, Nikolas Wohlgemuth, Vireak Dam "Analysis of fiber-optic cell-rotation using computer vision" (Student Project) (Highest mark 1.0/1.0)

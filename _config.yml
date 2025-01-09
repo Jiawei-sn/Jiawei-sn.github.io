@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "孙佳伟 Jiawei Sun" #"Your Name / Site Title"
+title                    : "Jiawei Sun (孙佳伟)" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "孙佳伟 Jiawei Sun - 德累斯顿工业大学 TU Dresden"
-description              : &description "孙佳伟的个人学术网站"
+name                     : &name "Jiawei Sun (孙佳伟)"
+description              : &description "Personal website of Jiawei Sun"
 url                      : https://jiawei-sn.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "孙佳伟 Jiawei Sun"
+  name             : "Jiawei Sun (孙佳伟)"
   avatar           : "profile.png"
-  bio              : "德累斯顿工业大学 TU Dresden"
+  bio              : "TU Dresden"
   location         : "Dresden, Germany"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

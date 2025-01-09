@@ -17,7 +17,7 @@ Email: jiawei.sun@tu-dresden.de
 
 ## Work Experience
 
-**October 2019 - Present, Research Associate,** TU Dresden \
+**Oct 2019 - Present, Research Associate,** TU Dresden \
 Competence Center for Biomedical Computational Laser Systems (BIOLAS)
 Laboratory of Measurement and Sensor System Technique (MST)
 

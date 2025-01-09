@@ -20,7 +20,7 @@ Oct 2019 - Present, **Research Associate, TU Dresden, Germany** \
 Competence Center for Biomedical Computational Laser Systems (BIOLAS) \
 Laboratory of Measurement and Sensor System Technique (MST)
 
-Sep 2023 - Dec 2024, **Young Investigator,** Shanghai AI Lab, China**
+Sep 2023 - Dec 2024, **Young Investigator, Shanghai AI Lab, China**
 
 ## Education
 
@@ -67,7 +67,8 @@ Science Partner Journals (AAAS): *Intelligent Computing* \
 OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters, Photonics Research* \
 Wiley: *Laser & Photonics Reviews*\
 IEEE: *IEEE Transactions on Computational Imaging, IEEE Photonics Technology Letters*\
-Elsevier: *Optics & Laser Technology*
+Elsevier: *Optics & Laser Technology*\
+Chinese Laser Press: *Advanced Imaging, Laser & Optoelectronics Progress, Acta Optica Sinica*
 
 ## Publication List
 
@@ -86,9 +87,8 @@ Elsevier: *Optics & Laser Technology*
 1. **Jiawei Sun**, “Learning-based Three-Dimensional Optical Cell Rotation Tomography and Quantitative Phase Imaging Using Multi-Core Fibers.” Dresdner Berichte zur Messsystemtechnik, 19. Düren: Shaker Verlag, 2023. ISBN: 9783844090529.
 
 ### International Conference Presentations
-1. **Jiawei Sun**\*, N. Koukourakis and J. Czarske, “Multi-Dimensional Cell Rotation with Multi-Core Fibers and Wavefront Shaping”, Congress of the International Commission for Optics (ICO) 2022, Dresden, Germany (Oral) 
-**荣获国际光学工程学会颁发的“最佳学生论文奖” SPIE Student Best Paper Prize**
-2. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Learning-based quantitative phase imaging through an ultra-thin lens-free fiber microendoscope”, SPIE Photonics West, 2023, San Francisco, CA, USA (Oral) **荣获SPIE Student Conference Travel Grant**
+1. **Jiawei Sun**\*, N. Koukourakis and J. Czarske, “Multi-Dimensional Cell Rotation with Multi-Core Fibers and Wavefront Shaping”, Congress of the International Commission for Optics (ICO) 2022, Dresden, Germany (Oral)  SPIE Student Best Paper Prize**
+2. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Learning-based quantitative phase imaging through an ultra-thin lens-free fiber microendoscope”, SPIE Photonics West, 2023, San Francisco, CA, USA (Oral) ** Awarded Student Conference Travel Grant**
 3. **Jiawei Sun**, Nektarios Koukourakis and Jürgen W. Czarske\*, “3D cell rotation in multicore fiber-based optical diffraction tomography with isotropic resolution using deep learning”, SPIE Optics and Photonics 2023, San Diego, CA, USA (Oral)
 4. Jie Zhang, **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen Czarske, “Lensless microendoscope: ultra-thin nanoscale surface imaging probe”, International Conference on Optical and Photonic Engineering (icOPEN) 2022, Nanjing, China (Oral) 
 5. **Jiawei Sun**\*, Nektarios Koukourakis and Jürg3. **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Real-time quantitative phase imaging through a multicore fiber using deep learning”, SPIE Photonics Asia 2022, Nantong, China (Oral) 
@@ -97,33 +97,34 @@ Elsevier: *Optics & Laser Technology*
 8. Krisztian Neutsch, L. Schnitzler, **Jiawei Sun**, M. J Tranelis, Martin R Hofmann, Nils C Gerhardt, “In-depth particle localization with common-path digital holographic microscopy”, SPIE Photonics West 2020, San Francisco, CA, USA (Oral)
 
 ### Invited Talks
-1. **Jiawei Sun**\*, Bin Yang, Nektarios Koukourakis and Jürgen W. Czarske,"Computational multicore fiber-optic cell rotation tomography with isotropic 3D resolution", The 14th International Conference on Information Optics and Photonics (CIOP 2023), Xi'an, China, Aug. 2023
-2. Juergen W. Czarske\*, Nektarios Koukourakis and **Jiawei Sun**, "Multicore fiber endoscopy for 3D rotation of cancer cells (Invited)", SPIE Optical Metrology 2023, Munich, Germany, Jun. 2023
-3. **Jiawei Sun**, “Smart multi-core fiber endoscope for light field control and detection”, 5th International Forum of Advanced Photonics for Young Scientists, 浙江大学光电学院70周年院庆, 2023年1月
-4. **孙佳伟**, “智能光纤内窥镜—光场调控与相位成像”, 上海人工智能实验室青年学术论坛，2022年8月
-5. **孙佳伟**, “智能光纤内窥镜”, 合肥综合性国家科学中心人工智能研究院，2022年8月
-6. **Jiawei Sun**, “Smart multi-core fiber endoscope for light field control and detection”, Institute of Biomedical Optics, University of Luebeck, Germany, Feb. 2022
-7. **Jiawei Sun**, “Multi-core fiber for light field control and detection”, Seminar of Chair for Photonics and Terahertz Technology at Ruhr University Bochum, Germany, Feb. 2022
-8. **Jiawei Sun**, “Real-time Program-controlled Cell Rotation using Structured Light”, SPIE Student Chapter Webconference of South Africa and Germany, Nov. 2021 
-9. **Jiawei Sun**, “Real-time controlled cell-rotation in 3D with a phased-array optical manipulator”, Virtual Photonic Workshop, A joint event of the SPIE Student Chapter TU Dresden and Wroclaw University of Science and Technology, Mar. 2021
+1. **Jiawei Sun**\* et. al., “AI-driven multicore fiber-optic cell rotation”, SPIE Optics and Photonics, San Diego, USA, Aug. 2024
+2. **Jiawei Sun**\*, “Learning-based lensless fiber endomicroscopic imaging”, PhotoniX Forum, Shanghai, China, Nov. 2024
+3. **孙佳伟**, “深度学习在光纤相位成像与光纤光镊中的应用”, Advanced Photonics论坛：智能光子学，2024年11月
+4. **Jiawei Sun**\*, Bin Yang, Nektarios Koukourakis and Jürgen W. Czarske, "Computational multicore fiber-optic cell rotation tomography with isotropic 3D resolution", The 14th International Conference on Information Optics and Photonics (CIOP 2023), Xi'an, China, Aug. 2023
+5. Juergen W. Czarske\*, Nektarios Koukourakis and **Jiawei Sun**, "Multicore fiber endoscopy for 3D rotation of cancer cells (Invited)", SPIE Optical Metrology 2023, Munich, Germany, Jun. 2023
+6. **Jiawei Sun**, “Smart multi-core fiber endoscope for light field control and detection”, 5th International Forum of Advanced Photonics for Young Scientists, Zhejiang University, Jan. 2023
+7. **孙佳伟**, “智能光纤内窥镜—光场调控与相位成像”, 上海人工智能实验室青年学术论坛，2022年8月
+8. **孙佳伟**, “智能光纤内窥镜”, 合肥综合性国家科学中心人工智能研究院，2022年8月
+9. **Jiawei Sun**, “Smart multi-core fiber endoscope for light field control and detection”, Institute of Biomedical Optics, University of Luebeck, Germany, Feb. 2022
+10. **Jiawei Sun**, “Multi-core fiber for light field control and detection”, Seminar of Chair for Photonics and Terahertz Technology at Ruhr University Bochum, Germany, Feb. 2022
+11. **Jiawei Sun**, “Real-time Program-controlled Cell Rotation using Structured Light”, SPIE Student Chapter Webconference of South Africa and Germany, Nov. 2021 
+12. **Jiawei Sun**, “Real-time controlled cell-rotation in 3D with a phased-array optical manipulator”, Virtual Photonic Workshop, A joint event of the SPIE Student Chapter TU Dresden and Wroclaw University of Science and Technology, Mar. 2021
 
 
 
 
-## 指导学生情况
-*Ongoing:* 
-- Vireak Dam "Physical model based deep neural network for quantitative phase imaging through a multi-core fiber"  (Bachelor Thesis)
+## Supervision of students
 
-*Finished:* 
-- Jie Zhang "Real-time quantitative phase imaging through an ultra-thin lensless microendoscope" (Bachelor Thesis) 满分(1.0/1.0) \
-  **该论文荣获 2023 Gisela and Erwin Sick Measurement and Sensor Technology Prize**
-  **荣获Silicon Science Award for the excellent Bachelor Thesis** [Link](https://www-cismst-de.translate.goog/en/news-2023-09-05-en/?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc)
-  **荣获德国激光协会（WLT）Theodore-Maiman-Scholarship 2023**[Link](https://www.wlt.de/theodore-maiman-stipendium)
-  ****
+- Jie Zhang "Real-time quantitative phase imaging through an ultra-thin lensless microendoscope" (Bachelor Thesis) (Highest mark 1.0/1.0) \
+  **Awarded 2023 Gisela and Erwin Sick Measurement and Sensor Technology Prize\**
+  **Awarded Silicon Science Award for the excellent Bachelor Thesis** [Link](https://www-cismst-de.translate.goog/en/news-2023-09-05-en/?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc)\
+  **Awarded（WLT）Theodore-Maiman-Scholarship 2023**[Link](https://www.wlt.de/theodore-maiman-stipendium)\
+
 - Bin Yang "Optical diffraction tomography towards label-free 3D imaging of embryos" (Master Thesis) 满分(1.0/1.0)
-- Chengxiao Wang "Optical Diffraction Tomography Using Multi-axis Cell Rotation with Isotropic Resolution"  (Bachelor Thesis) 满分(1.0/1.0)
-- Bin Yang "Optimization of 3D Optical Projection Tomographic Reconstruction via Computer Vision and Deep Learning" (Bachelor Thesis) 满分(1.0/1.0)
-- Alexander Echeverría Kientzle, Nikolas Wohlgemuth, Vireak Dam "Analysis of fiber-optic cell-rotation using computer vision" (Student Project) 满分(1.0/1.0)
+- Chengxiao Wang "Optical Diffraction Tomography Using Multi-axis Cell Rotation with Isotropic Resolution"  (Bachelor Thesis) (Highest mark 1.0/1.0)
+- Bin Yang "Optimization of 3D Optical Projection Tomographic Reconstruction via Computer Vision and Deep Learning" (Bachelor Thesis) (Highest mark 1.0/1.0)
+- Alexander Echeverría Kientzle, Nikolas Wohlgemuth, Vireak Dam "Analysis of fiber-optic cell-rotation using computer vision" (Student Project) (Highest mark 1.0/1.0)
+- Vireak Dam "Physical model based deep neural network for quantitative phase imaging through a multi-core fiber"  (Bachelor Thesis) (Highest mark 1.0/1.0)
 
 
 

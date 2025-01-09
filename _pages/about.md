@@ -16,19 +16,19 @@ Email: jiawei.sun@tu-dresden.de
 
 ## Work Experience
 
-**Oct 2019 - Present, Research Associate,** TU Dresden, Germany \
+Oct 2019 - Present, **Research Associate, TU Dresden, Germany** \
 Competence Center for Biomedical Computational Laser Systems (BIOLAS) \
 Laboratory of Measurement and Sensor System Technique (MST)
 
-**Sep 2023 - Dec 2024, Young Investigator,** Shanghai AI Lab, China
+Sep 2023 - Dec 2024, **Young Investigator,** Shanghai AI Lab, China**
 
 ## Education
 
-**Oct 2019 - March 2023, Ph.D.,** TU Dresden, Germany, Advisor: Juergen Czarske
+Oct 2019 - March 2023, **Ph.D.,** TU Dresden, Germany, Advisor: Juergen Czarske
 
-**Oct 2016 - June 2019, M.Sc.,** Ruhr-University Bochum, Germany, Advisor: Martin Hofmann
+Oct 2016 - June 2019, **M.Sc.,** Ruhr-University Bochum, Germany, Advisor: Martin Hofmann
 
-**Sep 2012 - July 2016, B.Eng.,** Northwestern Polytechnical University, China
+Sep 2012 - July 2016, **B.Eng.,** Northwestern Polytechnical University, China
 
 
 ## Awards and Honors (Selected)
@@ -55,20 +55,19 @@ Laboratory of Measurement and Sensor System Technique (MST)
 
 - **May 2023 - Present: Guest Editor, Photonics (peer review journal)** \
   Special Issue "Emerging Topics in High-Power Laser and Light–Matter Interactions" [Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)
-
 - **October 2021 - January 2023: Secretary, SPIE Student Chapter TU Dresden**
-
 - **January 2022 - January 2023: Secretary and Co-Founder, OPTICA/OSA Student Chapter TU Dresden**
 - OPTICA member
 - SPIE member 
 - IEEE member
 
-- **担任期刊审稿人:** \
+- **Journal Reviewer** \
 Springer Nature: *Communications Physics, Communications Biology, Light: Science & Applications, Light: Advanced Manufacturing，Advanced Fiber Materials, Journal of the European Optical Society* \
 Science Partner Journals (AAAS): *Intelligent Computing* \
-OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters* \
+OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters, Photonics Research* \
 Wiley: *Laser & Photonics Reviews*\
-IEEE: IEEE Transactions on Computational Imaging
+IEEE: *IEEE Transactions on Computational Imaging, IEEE Photonics Technology Letters*\
+Elsevier: *Optics & Laser Technology*
 
 ## Publication List
 

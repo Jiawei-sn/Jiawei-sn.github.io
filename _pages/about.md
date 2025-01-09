@@ -61,7 +61,7 @@ Sep 2012 - July 2016, **B.Eng.,** Northwestern Polytechnical University, China
 - SPIE member 
 - IEEE member
 
-- **Journal Reviewer** \
+- **Reviewer** \
 Springer Nature: *Communications Physics, Communications Biology, Light: Science & Applications, Light: Advanced Manufacturing，Advanced Fiber Materials, Journal of the European Optical Society* \
 Science Partner Journals (AAAS): *Intelligent Computing* \
 OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters, Photonics Research* \
@@ -72,7 +72,7 @@ Chinese Laser Press: *Advanced Imaging, Laser & Optoelectronics Progress, Acta O
 
 ## Publication List
 
-### Peer-reviewed Journal Articles
+### Peer-reviewed Journal Papers
 1. **Jiawei Sun**\*, Bin Yang,  Nektarios Koukourakis, Jochen Guck, Juergen W Czarske\*, "AI-driven projection tomography with multicore fibre-optic cell rotation", *Nature Communications*, 2024
 2. **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W Czarske\*, "Quantitative phase imaging through an ultra-thin lensless fiber endoscope", *Light: Science & Applications*, 2022  **LSA top downloaded papers in 2022**
 3. **Jiawei Sun**, Robert Kuschmierz, Ori Katz, Nektarios Koukourakis, Juergen W Czarske\*, "Lensless fiber endomicroscopy in biomedicine", *PhotoniX*, 2024

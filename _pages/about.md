@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CV"
+title: "Jiawei Sun (孙佳伟)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

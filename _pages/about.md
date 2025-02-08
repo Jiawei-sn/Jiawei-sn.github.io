@@ -14,21 +14,25 @@ redirect_from:
 **Contact Information:** \
 Email: jiawei.sun@tu-dresden.de
 
-## Work Experience
+## Professional Experience
 
-Oct 2019 - Present, **Research Associate, TU Dresden, Germany** \
-Competence Center for Biomedical Computational Laser Systems (BIOLAS) \
+**Professor, Chinese Academy of Sciences (CAS)**, Dec 2024 - Present \
+Suzhou Institute of Biomedical Engineering and Technology (SIBET)
+
+**Young Investigator, Shanghai AI Laboratory**, Sep 2023 - Dec 2024\
+
+**Research Associate, Dresden University of Technology (TUD)**, Oct 2019 - Aug 2023 \
 Laboratory of Measurement and Sensor System Technique (MST)
-
-Sep 2023 - Dec 2024, **Young Investigator, Shanghai AI Lab, China**
 
 ## Education
 
-Oct 2019 - March 2023, **Ph.D.,** TU Dresden, Germany, Advisor: Juergen Czarske
+**Ph.D. ** Dresden University of Technology (TUD), Germany, Oct 2019 - March 2023\
+Advisor: Juergen Czarske
 
-Oct 2016 - June 2019, **M.Sc.,** Ruhr-University Bochum, Germany, Advisor: Martin Hofmann
+**M.Sc. ** Ruhr-University Bochum, Germany, Oct 2016 - June 2019\
+Advisor: Martin Hofmann
 
-Sep 2012 - July 2016, **B.Eng.,** Northwestern Polytechnical University, China
+**B.Eng. ** Northwestern Polytechnical University, China, Sep 2012 - July 2016,
 
 
 ## Awards and Honors (Selected)

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-**Research Interests: Lensless fiber-optic imaging, Optical manipulation, AI-driven optical tomography**
+**Research Interests: Lensless fiber-optic imaging, Optical manipulation, Optical tomography, Deep learning**
 
 **Contact Information:** \
 Email: jiawei.sun@tu-dresden.de
@@ -19,37 +19,37 @@ Email: jiawei.sun@tu-dresden.de
 **Professor, Chinese Academy of Sciences (CAS)**, Dec 2024 - Present \
 Suzhou Institute of Biomedical Engineering and Technology (SIBET)
 
-**Young Investigator, Shanghai AI Laboratory**, Sep 2023 - Dec 2024\
+**Young Investigator, Shanghai AI Laboratory**, Sep 2023 - Dec 2024 
 
 **Research Associate, Dresden University of Technology (TUD)**, Oct 2019 - Aug 2023 \
 Laboratory of Measurement and Sensor System Technique (MST)
 
 ## Education
 
-**Ph.D. ** Dresden University of Technology (TUD), Germany, Oct 2019 - March 2023\
+**Ph.D., Dresden University of Technology (TUD)** Oct 2019 - March 2023\
 Advisor: Juergen Czarske
 
-**M.Sc. ** Ruhr-University Bochum, Germany, Oct 2016 - June 2019\
+**M.Sc., Ruhr-University Bochum** Oct 2016 - June 2019\
 Advisor: Martin Hofmann
 
-**B.Eng. ** Northwestern Polytechnical University, China, Sep 2012 - July 2016,
+**B.Eng., Northwestern Polytechnical University** Sep 2012 - July 2016,
 
 
 ## Awards and Honors (Selected)
 
-- **2023 Heinrich Barkhausen Prize (Carl-Friedrich-von-Siemens Foundation)**
+- **2023 Heinrich Barkhausen Prize** (Carl-Friedrich-von-Siemens Foundation)
 
-- **2023 Siegfried Werth Prize** [News Link](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) \
+- [2023 Siegfried Werth Prize](https://werthinc.com/about-werth/werth-foundation.html) [News](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) 
 
-- **2024 University Prize for Measurement Systems Engineering (Gisela and Erwin Sick Foundation)**
+- **2024 University Prize for Measurement Systems Engineering** (Gisela and Erwin Sick Foundation)
 
-- **September 2022 SPIE Student Best Paper Prize**
+- **SPIE Student Best Paper Prize** (at ICO-25 conference)
 
-- **2022 Cover Interview in MIT Technology Review** [Link](https://www.mittrchina.com/news/detail/10930) (in Chinese)
+- **2022 Cover Interview in MIT Technology Review** [in Chinese](https://www.mittrchina.com/news/detail/10930)
 
 - **2023 Highest Honor for Doctoral Degree from TU Dresden (summa cum laude)**
 
-- 2023 Top downloaded papers of Light: Science & Applications in 2022 [Paper Link](https://www.nature.com/articles/s41377-022-00898-2)
+- [Top downloaded papers of Light: Science & Applications in 2022](https://www.nature.com/articles/s41377-022-00898-2)
 
 - SPIE Student Conference Travel Grant (Photonics West 2023)
 
@@ -57,22 +57,22 @@ Advisor: Martin Hofmann
 
 ## Academic Activities
 
-- **May 2023 - Present: Guest Editor, Photonics (peer review journal)** \
+- **2023 - Present: Guest Editor, Photonics (peer review journal)** \
   Special Issue "Emerging Topics in High-Power Laser and Light–Matter Interactions" [Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)
-- **October 2021 - January 2023: Secretary, SPIE Student Chapter TU Dresden**
-- **January 2022 - January 2023: Secretary and Co-Founder, OPTICA/OSA Student Chapter TU Dresden**
+- **2021 - 2023: Secretary, SPIE Student Chapter TU Dresden**
+- **2022 - 2023: Secretary and Co-Founder, OPTICA/OSA Student Chapter TU Dresden**
 - OPTICA member
 - SPIE member 
 - IEEE member
 
-- **Reviewer** \
-Springer Nature: *Communications Physics, Communications Biology, Light: Science & Applications, Light: Advanced Manufacturing，Advanced Fiber Materials, Journal of the European Optical Society* \
-Science Partner Journals (AAAS): *Intelligent Computing* \
-OPTICA(OSA): *Biomedical Optics Express, Optics Express, Optics Letters, Photonics Research* \
-Wiley: *Laser & Photonics Reviews*\
-IEEE: *IEEE Transactions on Computational Imaging, IEEE Photonics Technology Letters*\
-Elsevier: *Optics & Laser Technology*\
-Chinese Laser Press: *Advanced Imaging, Laser & Optoelectronics Progress, Acta Optica Sinica*
+- **Review for journal publications** \
+<u>Springer Nature</u>: *Light: Science & Applications, Communications Physics, Communications Biology, Light: Advanced Manufacturing, Advanced Fiber Materials, Journal of the European Optical Society* \
+<u>Science Partner Journals (AAAS)</u>: *Intelligent Computing* \
+<u>OPTICA(OSA)</u>: *Optics Express, Optics Letters, Photonics Research, Biomedical Optics Express* \
+<u>Wiley</u>: *Laser & Photonics Reviews* \
+<u>IEEE</u>: *IEEE Transactions on Computational Imaging, IEEE Photonics Technology Letters* \
+<u>Elsevier</u>: *Optics & Laser Technology* \
+<u>Chinese Laser Press</u>: *Advanced Imaging, Laser & Optoelectronics Progress, Acta Optica Sinica*
 
 ## Publication List
 

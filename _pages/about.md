@@ -26,7 +26,7 @@ Laboratory of Measurement and Sensor System Technique (MST)
 
 ## Education
 
-- **Ph.D., Dresden University of Technology (TUD)** Oct 2019 - March 2023\
+- **Ph.D.(summa cum laude), Dresden University of Technology (TUD)** Oct 2019 - March 2023\
 Advisor: Juergen Czarske
 
 - **M.Sc., Ruhr-University Bochum** Oct 2016 - June 2019\

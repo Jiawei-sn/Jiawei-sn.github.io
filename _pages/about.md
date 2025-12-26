@@ -19,7 +19,7 @@ I received my Ph.D. (**summa cum laude**) from **Dresden University of Technolog
 
 担任国际光学学会（OPTICA）分子细胞生物学光学捕获与操纵技术组执行委员、BMEF 青年编委、《红外与激光工程》青年编委、*Photonics* 客座编辑，中国光学工程学会技术经理人，长期担任 *Light*、*Advanced Photonics*、*Laser & Photonics Reviews*、*Photonics Research* 等 20 余种国际期刊审稿人；同时为国际光学学会（OPTICA）终身会员、国际光学工程学会（SPIE）终身会员、中国光学工程学会高级会员、中国光学学会会员、国际电气工程师协会（IEEE）会员、德国电气工程师协会（VDE）会员。
 
-<span style="color:#d60000; font-weight:700;">团队招收博士后、博士生及硕士生</span>（光学/电子信息/生物医学工程/人工智能等方向），欢迎邮件联系并附简历。
+<span style="color:#d60000; font-weight:700;">长期招收光学/电子信息/生物医学工程/人工智能等方向博士后、博士生及硕士生（中国科学技术大学学籍）</span>，欢迎邮件联系并附简历。
 
 ## Research Interests | 研究方向
 - Lensless fiber endomicroscopy & computational microscopy  
@@ -29,7 +29,9 @@ I received my Ph.D. (**summa cum laude**) from **Dresden University of Technolog
 ## Contact Information | 联系方式
 Email: **sunjiawei@sibet.ac.cn**
 
-## Professional Experience
+## Professional Experience | 工作经历
+- **Deputy Director, Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation**, Dec 2025 - Present \
+Suzhou Institute of Biomedical Engineering and Technology (SIBET)
 
 - **Professor, Chinese Academy of Sciences (CAS)**, Dec 2024 - Present \
 Suzhou Institute of Biomedical Engineering and Technology (SIBET)

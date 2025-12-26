@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiawei Sun (孙佳伟) Professor at SIBET, CAS" #"Your Name / Site Title"
+title                    : "Jiawei Sun (孙佳伟)" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Jiawei Sun (孙佳伟)"
 description              : &description "Professor at SIBET, CAS"

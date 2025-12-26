@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiawei Sun (孙佳伟)" #"Your Name / Site Title"
+title                    : "Jiawei Sun (孙佳伟) Professor at SIBET, CAS" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Jiawei Sun (孙佳伟)"
-description              : &description "Personal website of Jiawei Sun"
+description              : &description "Professor at SIBET, CAS"
 url                      : https://jiawei-sn.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -80,41 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiawei Sun (孙佳伟)"
-  avatar           : "profile.png"
-  bio              : "TU Dresden"
-  location         : "Dresden, Germany"
-  employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WH60dT4AAAAJ"
-  email            : "jiawei.sun@tu-dresden.de"
-  researchgate     : "https://www.researchgate.net/profile/Jiawei-Sun-13" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "Jiawei-sn"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "jiawei-sun-94-cn"
-  orcid            : #"https://orcid.org/0000-0001-8663-1556"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "JiaweiSun_"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+name             : "Jiawei Sun (孙佳伟)"
+avatar           : "profile.png"
+bio              : "Professor, SIBET, CAS"
+location         : "Suzhou, China"
+employer         : "Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)"
+googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WH60dT4AAAAJ"
+email            : "sunjiawei@sibet.ac.cn"
+researchgate     : "https://www.researchgate.net/profile/Jiawei-Sun-13"
+github           : "Jiawei-sn"
+linkedin         : "jiawei-sun-94-cn"
+orcid            : "https://orcid.org/0000-0001-8663-1556"
+twitter          :
+
 
 
 # Reading Files

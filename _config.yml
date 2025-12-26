@@ -80,18 +80,19 @@ analytics:
 
 # Site Author
 author:
-name             : "Jiawei Sun (孙佳伟)"
-avatar           : "profile.png"
-bio              : "Professor, SIBET, CAS"
-location         : "Suzhou, China"
-employer         : "Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)"
-googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WH60dT4AAAAJ"
-email            : "sunjiawei@sibet.ac.cn"
-researchgate     : "https://www.researchgate.net/profile/Jiawei-Sun-13"
-github           : "Jiawei-sn"
-linkedin         : "jiawei-sun-94-cn"
-orcid            : "https://orcid.org/0000-0001-8663-1556"
-twitter          :
+  name: "Jiawei Sun (孙佳伟)"
+  avatar: "profile.png"
+  bio: "Jiawei Sun (孙佳伟)"
+  location: "Suzhou, China"
+  employer: "Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)"
+  googlescholar: "https://scholar.google.com/citations?hl=zh-CN&user=WH60dT4AAAAJ"
+  email: "sunjiawei@sibet.ac.cn"
+  researchgate: "https://www.researchgate.net/profile/Jiawei-Sun-13"
+  github: "Jiawei-sn"
+  linkedin: "jiawei-sun-94-cn"
+  orcid: "https://orcid.org/0000-0001-8663-1556"
+  twitter:
+
 
 
 

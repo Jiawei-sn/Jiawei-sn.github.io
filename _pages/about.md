@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
 ## Biography | 个人简介
+
+<div class="justify-text">
 
 I am a **Professor at the Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)**, and **Deputy Director of the Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation**. My research focuses on **lensless fiber endomicroscopy** and **quantitative phase imaging**, as well as **AI-driven photonics** for fiber light-field manipulation and computational microscopic imaging. Previously, I was a Young Investigator at the **Shanghai AI Laboratory** and a Research Associate at **TU Dresden** (MST group).
 
@@ -21,6 +22,8 @@ I received my Ph.D. (**summa cum laude**) from **Dresden University of Technolog
 
 <span style="color:#d60000; font-weight:700;">长期招收光学/电子信息/生物医学工程/人工智能等方向博士后、博士生及硕士生（中国科学技术大学学籍）</span>，欢迎邮件联系并附简历。
 
+</div>
+
 ## Research Interests | 研究方向
 - Lensless fiber endomicroscopy & computational microscopy  
 - Quantitative phase imaging (QPI) & optical diffraction tomography (ODT)  
@@ -30,35 +33,37 @@ I received my Ph.D. (**summa cum laude**) from **Dresden University of Technolog
 Email: **sunjiawei@sibet.ac.cn**
 
 ## Professional Experience | 工作经历
-- **Deputy Director, Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation**, Dec 2025 - Present \
-Suzhou Institute of Biomedical Engineering and Technology (SIBET)
 
-- **Professor, Chinese Academy of Sciences (CAS)**, Dec 2024 - Present \
-Suzhou Institute of Biomedical Engineering and Technology (SIBET)
+- **Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)** *(Dec 2024–Present)*  
+  Professor & Deputy Director, Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation
 
-- **Young Investigator, Shanghai AI Laboratory**, Sep 2023 - Dec 2024 
+- **Shanghai AI Laboratory** *(Sep 2023–Dec 2024)*  
+  Young Investigator
 
-- **Research Associate, Dresden University of Technology (TUD)**, Oct 2019 - Aug 2023 \
-Laboratory of Measurement and Sensor System Technique (MST)
-
-## Education
-
-- **Ph.D.(summa cum laude), Dresden University of Technology (TUD)** Oct 2019 - March 2023\
-Advisor: Juergen Czarske
-
-- **M.Sc., Ruhr-University Bochum** Oct 2016 - June 2019\
-Advisor: Martin Hofmann
-
-- **B.Eng., Northwestern Polytechnical University** Sep 2012 - July 2016,
+- **Dresden University of Technology, Germany** *(Oct 2019–Aug 2023)*  
+  Research Associate & PostDoc
 
 
-## Awards and Honors (Selected)
+## Education | 教育背景
+
+- **Ph.D., Dresden University of Technology, Germany** *(Oct 2019–Mar 2023)*  
+  *summa cum laude*; Advisor: Prof. Juergen Czarske
+
+- **M.Sc., Ruhr University Bochum, Germany** *(Oct 2016–Jun 2019)*  
+  Advisor: Prof. Martin Hofmann
+
+- **B.Eng., Northwestern Polytechnical University, China** *(Sep 2012–Jul 2016)*  
+
+
+## Awards and Honors (Selected) | 获奖及荣誉（精选）
 
 - **2023 Heinrich Barkhausen Prize** (Carl-Friedrich-von-Siemens Foundation)
 
 - [2023 Siegfried Werth Prize](https://werthinc.com/about-werth/werth-foundation.html) [News](https://tu-dresden.de/ing/der-bereich/news/nachwuchswissenschaftler-dr-ing-jiawei-sun-mit-preis-der-dr-ing-siegfried-werth-stiftung-geehrt) 
 
 - **2024 University Prize for Measurement Systems Engineering** (Gisela and Erwin Sick Foundation)
+
+- **2025 Light Conference Best Paper Prize** 
 
 - **SPIE Student Best Paper Prize** (at ICO-25 conference)
 
@@ -71,28 +76,45 @@ Advisor: Martin Hofmann
 - SPIE Student Conference Travel Grant (Photonics West 2023)
 
 
+## Academic Activities | 学术任职
 
-## Academic Activities
+- **Junior Editorial Board Member — BMEF (Science Partner Journal)**  
+  (Science Partner Journals / AAAS)
 
-- **2023 - Present: Guest Editor, Photonics (peer review journal)** \
-  Special Issue "Emerging Topics in High-Power Laser and Light–Matter Interactions" [Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)
-- **2021 - 2023: Secretary, SPIE Student Chapter TU Dresden**
-- **2022 - 2023: Secretary and Co-Founder, OPTICA/OSA Student Chapter TU Dresden**
-- OPTICA member
-- SPIE member 
-- IEEE member
+- **Junior Editorial Board Member — *Infrared and Laser Engineering***  
+  Official journal of the Chinese Society of Optics and Electronics (CSOE)
 
-- **Review for journal publications** \
-**Springer Nature**: *Light: Science & Applications, Communications Physics, Communications Biology, Light: Advanced Manufacturing, Advanced Fiber Materials, Journal of the European Optical Society* \
-**Science Partner Journals (AAAS)**: *Intelligent Computing* \
-**OPTICA(OSA)**: *Optics Express, Optics Letters, Photonics Research, Biomedical Optics Express* \
-**Wiley**: *Laser & Photonics Reviews* \
-**IEEE**: *IEEE Transactions on Computational Imaging, IEEE Photonics Technology Letters* \
-**Elsevier**: *Optics & Laser Technology* \
-**Chinese Laser Press**: *Advanced Imaging, Laser & Optoelectronics Progress, Acta Optica Sinica*
+- **Guest Editor — *Photonics* (peer-reviewed journal)** *(2023–Present)*  
+  Special Issue: “Emerging Topics in High-Power Laser and Light–Matter Interactions” [Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)
+
+- **Executive Committee Member — OPTICA Technical Group (Optical Trapping and Manipulation)**  
+  (OPTICA; formerly OSA)
+
+- **Program Committee — Special Session, 25th Congress of the International Commission for Optics (ICO-25)**  
+  (Program Committee Member)
+
+- **Session Chair — 16th International Conference on Information Optics and Photonics (CIOP 2025)**  
+  (Session Chair)
+
+- **Student Chapter Service (TU Dresden)**  
+  Secretary / Co-founder, SPIE / OPTICA Student Chapter TU Dresden
+
+- **Memberships**  
+  OPTICA Life Member; SPIE Member; IEEE Member; CSOE Senior Member; COS Member; VDE Member
 
 
-## Publication List
+### Peer Review | 期刊审稿
+- **Springer Nature:** *Light: Science & Applications; Communications Physics; Communications Biology; Light: Advanced Manufacturing; Advanced Fiber Materials; Journal of the European Optical Society*  
+- **Science Partner Journals (AAAS):** *Intelligent Computing*  
+- **OPTICA (OSA):** *Optics Express; Optics Letters; Biomedical Optics Express; Photonics Research*  
+- **Wiley:** *Laser & Photonics Reviews*  
+- **IEEE:** *IEEE Transactions on Computational Imaging; IEEE Photonics Technology Letters*  
+- **Elsevier:** *Optics & Laser Technology*  
+- **Chinese Laser Press:** *Advanced Imaging; Laser & Optoelectronics Progress; Acta Optica Sinica*  
+- **MDPI:** *Applied Sciences; Photonics; Optics; Electronics*  
+- **AME Publishing:** *Quantitative Imaging in Medicine and Surgery*
+
+## Publication List | 论文与著作
 
 ### Peer-reviewed Journal Papers
 - **Jiawei Sun**\*, Bin Yang,  Nektarios Koukourakis, Jochen Guck, Juergen W Czarske\*, "AI-driven projection tomography with multicore fibre-optic cell rotation", *Nature Communications*, 2024
@@ -108,7 +130,9 @@ Advisor: Martin Hofmann
 ### Book Publication
 - **Jiawei Sun**, “Learning-based Three-Dimensional Optical Cell Rotation Tomography and Quantitative Phase Imaging Using Multi-Core Fibers.” Dresdner Berichte zur Messsystemtechnik, 19. Düren: Shaker Verlag, 2023. ISBN: 9783844090529.
 
-### International Conference Presentations
+## Conference talks | 学术报告
+
+## International Conference talks
 - **Jiawei Sun**\*, N. Koukourakis and J. Czarske, “Multi-Dimensional Cell Rotation with Multi-Core Fibers and Wavefront Shaping”, Congress of the International Commission for Optics (ICO) 2022, Dresden, Germany (Oral)  SPIE Student Best Paper Prize**
 - **Jiawei Sun**\*, Nektarios Koukourakis and Jürgen W. Czarske, “Learning-based quantitative phase imaging through an ultra-thin lens-free fiber microendoscope”, SPIE Photonics West, 2023, San Francisco, CA, USA (Oral) ** Awarded Student Conference Travel Grant**
 - **Jiawei Sun**, Nektarios Koukourakis and Jürgen W. Czarske\*, “3D cell rotation in multicore fiber-based optical diffraction tomography with isotropic resolution using deep learning”, SPIE Optics and Photonics 2023, San Diego, CA, USA (Oral)
@@ -118,7 +142,7 @@ Advisor: Martin Hofmann
 - **Jiawei Sun**\*, N. Dunkelberg, N. Koukourakis, R. Kuschmierz, J. W. Czarske and J. Guck, “Multi-dimensional cell-rotation using multi-core fibers and wavefront shaping”, SPIE Photonics West 2021, San Francisco, CA, USA (Oral)
 - Krisztian Neutsch, L. Schnitzler, **Jiawei Sun**, M. J Tranelis, Martin R Hofmann, Nils C Gerhardt, “In-depth particle localization with common-path digital holographic microscopy”, SPIE Photonics West 2020, San Francisco, CA, USA (Oral)
 
-### Invited Talks
+## Invited Talks
 - **Jiawei Sun**\* et. al., “AI-driven multicore fiber-optic cell rotation”, SPIE Optics and Photonics, San Diego, USA, Aug. 2024
 - **Jiawei Sun**\*, “Learning-based lensless fiber endomicroscopic imaging”, PhotoniX Forum, Shanghai, China, Nov. 2024
 - **孙佳伟**, “深度学习在光纤相位成像与光纤光镊中的应用”, Advanced Photonics论坛：智能光子学，2024年11月
@@ -134,8 +158,7 @@ Advisor: Martin Hofmann
 
 
 
-
-## Supervision of students
+## Supervision of students | 学生指导
 
 - Jie Zhang "Real-time quantitative phase imaging through an ultra-thin lensless microendoscope" (Bachelor Thesis) (Highest mark 1.0/1.0) \
   **Awarded 2023 Gisela and Erwin Sick Measurement and Sensor Technology Prize\**
@@ -147,7 +170,6 @@ Advisor: Martin Hofmann
 - Bin Yang "Optimization of 3D Optical Projection Tomographic Reconstruction via Computer Vision and Deep Learning" (Bachelor Thesis) (Highest mark 1.0/1.0)
 - Alexander Echeverría Kientzle, Nikolas Wohlgemuth, Vireak Dam "Analysis of fiber-optic cell-rotation using computer vision" (Student Project) (Highest mark 1.0/1.0)
 - Vireak Dam "Physical model based deep neural network for quantitative phase imaging through a multi-core fiber"  (Bachelor Thesis) (Highest mark 1.0/1.0)
-
 
 
 

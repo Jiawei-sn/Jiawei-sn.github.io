@@ -116,16 +116,17 @@ Email: **sunjiawei@sibet.ac.cn**
 ### Peer-reviewed Journal Papers
 
 - **Jiawei Sun**\*, Jiachen Wu, Song Wu, Liangcai Cao, Ruchi Goswami, Salvatore Girardo, Jochen Guck, Nektarios Koukourakis\*, Juergen W. Czarske\*,
-  “Quantitative phase imaging through an ultra-thin lensless fiber endoscope,” *Light: Science & Applications* **11**, 204 (2022). DOI: 10.1038/s41377-022-00898-2. *(Top downloaded papers of LSA in 2022)*
+  “Quantitative phase imaging through an ultra-thin lensless fiber endoscope,” *Light: Science & Applications* **11**, 204 (2022). https://doi.org/10.1038/s41377-022-00898-2 *(Top downloaded papers of LSA in 2022)*
 
 - **Jiawei Sun**\*, Bin Yang, Nektarios Koukourakis, Jochen Guck, Juergen W. Czarske\*,
-  “AI-driven projection tomography with multicore fibre-optic cell rotation,” *Nature Communications* **15**, 147 (2024). DOI: 10.1038/s41467-023-44280-1.
+  “AI-driven projection tomography with multicore fibre-optic cell rotation,” *Nature Communications* **15**, 147 (2024). https://doi.org/10.1038/s41467-023-44280-1
 
 - **Jiawei Sun**, Juergen W. Czarske,
-  “Compressive holographic sensing simplifies quantitative phase imaging,” *Light: Science & Applications* (2023). DOI: 10.1038/s41377-023-01145-y.
+  “Compressive holographic sensing simplifies quantitative phase imaging,” *Light: Science & Applications* (2023). https://doi.org/10.1038/s41377-023-01145-y
 
 - **Jiawei Sun**, Robert Kuschmierz, Ori Katz, Nektarios Koukourakis, Juergen W. Czarske\*,
-  “Lensless fiber endomicroscopy in biomedicine,” *PhotoniX* **5**, 18 (2024). DOI: 10.1186/s43074-024-00133-8. *(Perspective review)*
+  “Lensless fiber endomicroscopy in biomedicine,” *PhotoniX* **5**, 18 (2024). https://doi.org/10.1186/s43074-024-00133-8 *(Perspective review)*
+
 
 - Yuhang Tang, Bin Zhao, Xinyi Ye, **Jiawei Sun**, Xuelong Li,
   “Lensless fiber endomicroscopic phase imaging using a physical model-driven neural network,” *Optics Express* **33**(5), 10951–10964 (2025). https://doi.org/10.1364/OE.551221
@@ -144,21 +145,20 @@ Email: **sunjiawei@sibet.ac.cn**
 
 
 - **Jiawei Sun**, Bin Zhao\*, D. Wang, Z. Wang, J. Zhang, N. Koukourakis, J. Czarske, Xuelong Li\*,
-  “Calibration-free quantitative phase imaging in multi-core fiber endoscopes using end-to-end deep learning,” *Optics Letters* **49**(2), 342–345 (2024). DOI: 10.1364/OL.509772.
+  “Calibration-free quantitative phase imaging in multi-core fiber endoscopes using end-to-end deep learning,” *Optics Letters* **49**(2), 342–345 (2024). https://doi.org/10.1364/OL.509772
 
 - **孙佳伟**, 陈照青, 赵斌, 李学龙,
   “深度学习在光纤成像中的应用进展（特邀）,” *激光与光电子学进展* **61**(16), 1611004 (2024). *(Invited)* https://doi.org/10.3788/LOP241401
 
 
 - **Jiawei Sun**\*, Jiachen Wu\*, Nektarios Koukourakis, Liangcai Cao, Robert Kuschmierz, Juergen Czarske\*,
-  “Real-time complex light field generation through a multi-core fiber with deep learning,” *Scientific Reports* **12**, 7732 (2022). DOI: 10.1038/s41598-022-11803-7.
+  “Real-time complex light field generation through a multi-core fiber with deep learning,” *Scientific Reports* **12**, 7732 (2022). https://doi.org/10.1038/s41598-022-11803-7
 
 - **Jiawei Sun**\*, Nektarios Koukourakis\*, Jochen Guck, Juergen W. Czarske\*,
-  “Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber,” *Biomedical Optics Express* **12**(6), 3423–3437 (2021). DOI: 10.1364/BOE.423035.
+  “Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber,” *Biomedical Optics Express* **12**(6), 3423–3437 (2021). https://doi.org/10.1364/BOE.423035
 
 - **Jiawei Sun**, Nektarios Koukourakis\*, Juergen W. Czarske\*,
-  “Complex Wavefront Shaping through a Multi-Core Fiber,” *Applied Sciences* **11**(9), 3949 (2021). DOI: 10.3390/app11093949.
-
+  “Complex Wavefront Shaping through a Multi-Core Fiber,” *Applied Sciences* **11**(9), 3949 (2021). https://doi.org/10.3390/app11093949
 
 
 ### Book Publication

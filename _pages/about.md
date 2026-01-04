@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## Biography | 个人简介
+## Contact Information | 联系方式
+Email: **sunjiawei@sibet.ac.cn**/ **jiawei.sun@tu-dresden.de**
 
+## Biography | 个人简介
 
 I am a **Professor at the Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)**, and **Deputy Director of the Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation**. My research focuses on **lensless fiber endomicroscopy** and **quantitative phase imaging**, as well as **AI-driven photonics** for fiber light-field manipulation and computational microscopic imaging. Previously, I was a Young Investigator at the **Shanghai AI Laboratory** and a Research Associate at **TU Dresden** (MST group).
 
@@ -25,9 +27,6 @@ I received my Ph.D. (**summa cum laude**) from **Dresden University of Technolog
 - Lensless fiber endomicroscopy & computational microscopy  
 - Quantitative phase imaging (QPI) & optical diffraction tomography (ODT)  
 - AI-driven photonics: fiber light-field control, learning-based reconstruction
-
-## Contact Information | 联系方式
-Email: **sunjiawei@sibet.ac.cn**
 
 ## Professional Experience | 工作经历
 

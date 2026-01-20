@@ -17,11 +17,11 @@ I am a **Professor at the Suzhou Institute of Biomedical Engineering and Technol
 
 I received my Ph.D. (**summa cum laude**) from **Dresden University of Technology**, Germany, advised by Prof. Juergen Czarske. My work has been recognized by multiple awards including the **Heinrich Barkhausen Prize (2023)**, the **Siegfried Werth Prize (2023)**, the **University Prize for Measurement Systems Engineering (2024)**, and the **SPIE Best Paper Prize** (ICO-25). 
 
-孙佳伟，**中国科学院苏州生物医学工程技术研究所研究员，中国科学技术大学博导，江苏省先进诊疗技术与装备重点实验室副主任，国家海外优青，国家重点研发计划答辩评审专家，江苏省侨联专委会特聘专家**。主要从事无透镜光纤显微成像、光场调控与智能光子学相关研究，以第一或通讯作者身份共发表期刊和会议论文20余篇，主要包括 *Light: Science & Applications*、*Nature Communications*、*PhotoniX*等光学领域知名期刊，研究成果受到 *MIT Technology Review*、EurekAlert、中国光学等十余家科学媒体评述和报道，获得 **Heinrich Barkhausen Prize（2023）**、**Siegfried Werth Prize（2023）**、**University Prize for Measurement Systems Engineering (2024)**、**SPIE Best Paper Prize** 等荣誉。
+孙佳伟，1994年生，**中国科学院苏州生物医学工程技术研究所研究员，中国科学技术大学博导，江苏省先进诊疗技术与装备重点实验室副主任，国家海外优青，国家重点研发计划答辩评审专家，江苏省侨联专委会特聘专家**。主要从事无透镜光纤显微成像、光场调控与智能光子学相关研究，以第一或通讯作者身份共发表期刊和会议论文20余篇，主要包括 *Light: Science & Applications*、*Nature Communications*、*PhotoniX*等光学领域知名期刊，研究成果受到 *MIT Technology Review*、EurekAlert、中国光学等十余家科学媒体评述和报道，获得 **Heinrich Barkhausen Prize（2023）**、**Siegfried Werth Prize（2023）**、**University Prize for Measurement Systems Engineering (2024)**、**SPIE Best Paper Prize** 等荣誉。
 
 担任国际光学学会（OPTICA）分子细胞生物学光学捕获与操纵技术组执行委员、BMEF 青年编委、《红外与激光工程》青年编委、*Photonics* 客座编辑，中国光学工程学会技术经理人，长期担任 *Light*、*Advanced Photonics*、*Laser & Photonics Reviews*、*Photonics Research* 等 20 余种国际期刊审稿人；同时为国际光学学会（OPTICA）终身会员、国际光学工程学会（SPIE）终身会员、中国光学工程学会高级会员、中国光学学会会员、国际电气工程师协会（IEEE）会员、德国电气工程师协会（VDE）会员。
 
-<span style="color:#d60000; font-weight:700;">长期招收光学/电子信息/生物医学工程/人工智能等方向博士后、博士生及硕士生（中国科学技术大学学籍）</span>，欢迎邮件联系并附简历。
+<span style="color:#d60000; font-weight:700;">长期招收光学/电子信息/生物医学工程/人工智能等方向博士后、研究助理、博士生及硕士生（中国科学技术大学学籍）</span>，欢迎邮件联系并附简历。
 
 ## Research Interests | 研究方向
 - Lensless fiber endomicroscopy & computational microscopy  

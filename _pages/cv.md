@@ -2,6 +2,7 @@
 layout: single
 title: "CV"
 permalink: /cv/
+description: "Academic CV of Jiawei Sun, Professor at SIBET, CAS, including appointments, education, awards, funding, editorial service, and professional activities."
 author_profile: true
 ---
 

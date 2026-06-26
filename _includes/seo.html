@@ -25,6 +25,14 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
+{% if page.robots %}
+  {% assign seo_robots = page.robots %}
+{% elsif page.sitemap == false %}
+  {% assign seo_robots = "noindex, follow" %}
+{% else %}
+  {% assign seo_robots = "index, follow" %}
+{% endif %}
+
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
   {% if seo_author.twitter %}
@@ -48,9 +56,12 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
+
+<meta name="robots" content="{{ seo_robots }}">
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">

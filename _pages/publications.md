@@ -2,6 +2,7 @@
 layout: single
 title: "Publications"
 permalink: /publications/
+description: "Representative and complete publications by Jiawei Sun on lensless fiber endomicroscopy, computational optical imaging, QPI, and AI-driven 3D microscopy."
 author_profile: true
 ---
 

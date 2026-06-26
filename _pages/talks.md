@@ -2,6 +2,7 @@
 layout: single
 title: "Talks and Presentations"
 permalink: /talks/
+description: "Invited talks and conference presentations by Jiawei Sun on AI-driven fiber endomicroscopy, computational optical imaging, and label-free microscopy."
 author_profile: true
 ---
 

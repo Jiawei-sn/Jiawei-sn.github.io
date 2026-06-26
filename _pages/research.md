@@ -2,6 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
+description: "Research directions in AI-driven lensless fiber endomicroscopy, computational optical imaging, quantitative phase microscopy, and label-free 3D optical microscopy."
 author_profile: true
 ---
 

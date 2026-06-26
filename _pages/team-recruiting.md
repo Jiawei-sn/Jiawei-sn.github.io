@@ -2,6 +2,7 @@
 layout: single
 title: "Team / Recruiting"
 permalink: /team-recruiting/
+description: "Team members and recruiting information for postdoctoral fellows, graduate students, and research assistants in Jiawei Sun's group at SIBET, CAS."
 author_profile: true
 ---
 

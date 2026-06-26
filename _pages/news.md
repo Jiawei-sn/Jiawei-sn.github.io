@@ -2,6 +2,7 @@
 layout: single
 title: "News"
 permalink: /news/
+description: "News and updates from Jiawei Sun's research group at SIBET, CAS."
 author_profile: true
 ---
 

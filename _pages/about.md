@@ -2,6 +2,7 @@
 permalink: /
 title: "Jiawei Sun 孙佳伟"
 excerpt: "AI-driven computational optical imaging"
+description: "Jiawei Sun is a Professor at SIBET, Chinese Academy of Sciences, developing AI-driven computational optical imaging for lensless fiber endoscopy and label-free QPI."
 author_profile: true
 redirect_from:
   - /about/

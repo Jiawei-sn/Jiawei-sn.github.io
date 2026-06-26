@@ -52,11 +52,11 @@ You can also find updated records on [Google Scholar](https://scholar.google.com
 13. **Sun J**, Koukourakis N, Czarske J W, "3D cell-rotation using multi-core fiber-based lab-on-a-chip for optical tomography," *Optical Trapping and Optical Micromanipulation XIX*, SPIE, PC1219808 (2022).
 14. **Sun J**, Dunkelberg N, Koukourakis N, et al., "Multi-dimensional cell-rotation using multi-core fibers and wavefront shaping," *Quantitative Phase Imaging VII*, SPIE **11653**, 116530J (2021).
 
-## Research Highlight Pages
+## Representative Paper Links
 
-The original publication highlight pages remain available for selected papers:
+Representative papers are also available from the publisher pages:
 
-- [AI-driven projection tomography with multicore fibre-optic cell rotation](/publication/2024-paper-AI-tomo)
-- [Quantitative phase imaging through an ultra-thin lensless fiber endoscope](/publication/2022-07-05-paper-QPI-MCF)
-- [Real-time complex light field generation through a multi-core fiber with deep learning](/publication/2022-05-11-paper-DL-MCF)
-- [Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber](/publication/2021-06-01-cell-rotation-BOE)
+- [AI-driven projection tomography with multicore fibre-optic cell rotation](https://doi.org/10.1038/s41467-023-44280-1)
+- [Quantitative phase imaging through an ultra-thin lensless fiber endoscope](https://doi.org/10.1038/s41377-022-00898-2)
+- [Real-time complex light field generation through a multi-core fiber with deep learning](https://doi.org/10.1038/s41598-022-11803-7)
+- [Rapid computational cell-rotation around arbitrary axes in 3D with multi-core fiber](https://doi.org/10.1364/BOE.423035)

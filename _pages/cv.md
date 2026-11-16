@@ -23,6 +23,11 @@ author_profile: true
 
 ## Awards and Honors | 获奖及荣誉
 
+- **Monthly Editor's Pick Reviewer**, *Light: Science & Applications*, August 2026
+- **Suzhou Young Scientist / 苏州青年科学家**, 2026 [[Official announcement](https://www.suzhou.gov.cn/szsrmzf/zwgg/202607/2b0074d528d54616b42490c97a467ccb.shtml)]
+- **Outstanding Paper Award / 优秀论文**, Thematic Forum on Optical Information and Optical Network Technology, 28th Annual Meeting of the China Association for Science and Technology (CAST), 2026 / 第二十八届中国科协年会“光信息与光网络技术”专题论坛；获奖论文：[《多模光纤计算成像：智能融合及前沿进展》](https://doi.org/10.3788/irla20260012) (co-author; certificate dated July 2026)
+- **BMEF Journal Contribution Award**, 2025 (certificate dated January 30, 2026)
+
 - **NSFC Excellent Young Scientist Fund (Overseas) / 国家海外高层次青年人才**, 2024
 - **CAS Hundred Talents Program / 中国科学院百人计划**, 2025
 - **Heinrich Barkhausen Prize**, Carl-Friedrich-von-Siemens Foundation, 2023
@@ -45,8 +50,10 @@ author_profile: true
 
 ## Academic Service | 学术任职
 
+- **Editorial Board Member**, *Scientific Reports* (Nature Portfolio) [[Editorial board](https://www.nature.com/srep/editors)]
+
 - **Executive Committee Member**, OPTICA Technical Group on Optical Trapping and Manipulation
-- **Junior Editorial Board Member**, *BMEF* (Science Partner Journal / AAAS)
+- **Junior Editorial Board Member**, *BME Frontiers* (Science Partner Journal) [[Editorial board](https://spj.science.org/page/bmef/editors/)]
 - **Junior Editorial Board Member**, *Infrared and Laser Engineering*
 - **Guest Editor**, *Photonics*, Special Issue on Emerging Topics in High-Power Laser and Light-Matter Interactions, 2023-present [[Link](https://www.mdpi.com/journal/photonics/special_issues/SBN4H0Q600)]
 - **Program Committee Member**, Special Session, 25th Congress of the International Commission for Optics (ICO-25)

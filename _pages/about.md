@@ -29,7 +29,7 @@ redirect_from:
 <div class="bio-card">
 <h3>English</h3>
 
-<p>I am a <strong>Professor at the Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)</strong>, and <strong>Deputy Director of the Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation</strong>. My research develops computational optical imaging systems that combine optical physics, fiber photonics, and artificial intelligence for lensless fiber endomicroscopy, multimode fiber imaging, quantitative phase imaging, and 3D optical microscopy.</p>
+<p>I am a <strong>Professor at the Suzhou Institute of Biomedical Engineering and Technology (SIBET), Chinese Academy of Sciences (CAS)</strong>, and <strong>Deputy Director of the Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation</strong>. My research develops computational optical imaging systems that combine optical physics, fiber photonics, and artificial intelligence for lensless fiber endomicroscopy, multimode fiber imaging, quantitative phase imaging, and 3D optical microscopy. I serve on the editorial board of <em>Scientific Reports</em> and the junior editorial board of <em>BME Frontiers</em>.</p>
 
 <p>Before joining SIBET, I was a Young Investigator at the <strong>Shanghai AI Laboratory</strong> and a Research Associate/PostDoc at <strong>TU Dresden</strong>. I received my Ph.D. with the highest distinction (<strong>summa cum laude</strong>) from Dresden University of Technology, advised by Prof. Juergen W. Czarske. I was selected for the <strong>NSFC Excellent Young Scientist Fund (Overseas)</strong> and the <strong>CAS Hundred Talents Program</strong>; my work has also been recognized by the Heinrich Barkhausen Prize, the Siegfried Werth Prize, the University Prize for Measurement Systems Engineering, the SPIE Best Paper Prize, and multiple media highlights.</p>
 </div>
@@ -37,9 +37,32 @@ redirect_from:
 <div class="bio-card bio-card--cn">
 <h3>中文</h3>
 
-<p>孙佳伟，<strong>中国科学院苏州生物医学工程技术研究所研究员、博士生导师，江苏省先进诊疗技术与装备重点实验室副主任，国家海外高层次青年人才，中国科学院百人计划入选者，国家重点研发计划重点专项评审专家，江苏省侨联专委会特聘专家</strong>。主要从事无透镜光纤显微成像、光场调控与智能光子学相关研究，面向微创内窥、数字病理、三维细胞成像和智能光学系统发展新型计算成像方法与装备。</p>
+<p>孙佳伟，<strong>中国科学院苏州生物医学工程技术研究所研究员、博士生导师，江苏省先进诊疗技术与装备重点实验室副主任，国家海外高层次青年人才，中国科学院百人计划入选者，国家重点研发计划重点专项评审专家，江苏省侨联专委会特聘专家</strong>。现任 <em>Scientific Reports</em> 编委、<em>BME Frontiers</em> 青年编委。主要从事无透镜光纤显微成像、光场调控与智能光子学相关研究，面向微创内窥、数字病理、三维细胞成像和智能光学系统发展新型计算成像方法与装备。</p>
 
 <p>博士以最高荣誉（summa cum laude）毕业于德国德累斯顿工业大学，师从 Prof. Juergen W. Czarske，并留校开展博士后研究。以第一或通讯作者身份发表期刊和会议论文 20 余篇，包括 <em>Light: Science & Applications</em>、<em>Nature Communications</em>、<em>PhotoniX</em>、<em>Optics Letters</em> 等期刊；研究成果受到 <em>MIT Technology Review</em>、EurekAlert、中国光学等媒体报道。长期招收光学、电子信息、生物医学工程、人工智能等方向博士后、研究助理、博士生及硕士生。</p>
+</div>
+</div>
+
+## Honors & Editorial Service
+
+<div class="academic-grid academic-grid--two">
+<div class="academic-card">
+<h3>Recent Honors</h3>
+<ul class="compact-list">
+  <li><strong>Monthly Editor's Pick Reviewer</strong>, <em>Light: Science &amp; Applications</em>, August 2026.</li>
+  <li><strong>Suzhou Young Scientist</strong>, 2026. <a href="https://www.suzhou.gov.cn/szsrmzf/zwgg/202607/2b0074d528d54616b42490c97a467ccb.shtml">Official announcement</a></li>
+  <li><strong>Outstanding Paper Award</strong>, Thematic Forum on Optical Information and Optical Network Technology, 28th Annual Meeting of the China Association for Science and Technology (CAST), 2026. <a href="https://doi.org/10.3788/irla20260012">Awarded review paper</a></li>
+  <li><strong>BMEF Journal Contribution Award</strong>, 2025; certificate dated January 30, 2026.</li>
+  <li><strong>Light Conference Best Paper Prize</strong>, 2025. <a href="https://sibet.cas.cn/sourcedb/zw/yjdw/yjy/202506/t20250623_7873668.html">SIBET profile</a></li>
+</ul>
+</div>
+<div class="academic-card">
+<h3>Editorial Service</h3>
+<ul class="compact-list">
+  <li><strong>Editorial Board Member</strong>, <a href="https://www.nature.com/srep/editors"><em>Scientific Reports</em></a>, Nature Portfolio.</li>
+  <li><strong>Junior Editorial Board Member</strong>, <a href="https://spj.science.org/page/bmef/editors/"><em>BME Frontiers</em></a>, a Science Partner Journal.</li>
+</ul>
+<p><a href="/cv/">Full CV, honors, and academic service</a></p>
 </div>
 </div>
 
@@ -159,6 +182,10 @@ redirect_from:
 ## News / Updates
 
 <ul class="compact-list">
+  <li><strong>Aug 2026</strong> · Monthly Editor's Pick Reviewer, <em>Light: Science &amp; Applications</em>.</li>
+  <li><strong>Jul 2026</strong> · Named a Suzhou Young Scientist.</li>
+  <li><strong>Jul 2026</strong> · Co-authored review recognized as an Outstanding Paper at the 28th CAST Annual Meeting's thematic forum on optical information and optical network technology.</li>
+  <li><strong>Jan 2026</strong> · Certificate issued for the 2025 BMEF Journal Contribution Award.</li>
   <li><strong>Dec 2025</strong> · Appointed Deputy Director of the Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation.</li>
   <li><strong>2025</strong> · Selected for the CAS Hundred Talents Program.</li>
   <li><strong>2025</strong> · Selected for the NSFC Excellent Young Scientist Fund (Overseas).</li>

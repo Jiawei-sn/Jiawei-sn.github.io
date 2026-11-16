@@ -10,6 +10,22 @@ author_profile: true
 
 <ul class="news-list">
   <li>
+    <span class="news-date">Aug 2026</span>
+    <div><strong>Light reviewer recognition.</strong> Named a Monthly Editor's Pick Reviewer by <em>Light: Science &amp; Applications</em> for August 2026.</div>
+  </li>
+  <li>
+    <span class="news-date">Jul 2026</span>
+    <div><strong>Suzhou Young Scientist.</strong> Selected as a 2026 Suzhou Young Scientist. <a href="https://www.suzhou.gov.cn/szsrmzf/zwgg/202607/2b0074d528d54616b42490c97a467ccb.shtml">Official announcement</a></div>
+  </li>
+  <li>
+    <span class="news-date">Jul 2026</span>
+    <div><strong>Outstanding Paper at the 28th CAST Annual Meeting.</strong> The co-authored review <a href="https://doi.org/10.3788/irla20260012">“多模光纤计算成像：智能融合及前沿进展”</a> was recognized as an Outstanding Paper at the Thematic Forum on Optical Information and Optical Network Technology. The certificate was issued by the Chinese Society for Optical Engineering in July 2026.</div>
+  </li>
+  <li>
+    <span class="news-date">Jan 2026</span>
+    <div><strong>BMEF Journal Contribution Award.</strong> Recognized with the 2025 award; certificate issued by the BMEF Editorial Office on January 30, 2026.</div>
+  </li>
+  <li>
     <span class="news-date">Dec 2025</span>
     <div><strong>Deputy Director appointment.</strong> Appointed Deputy Director of the Jiangsu Provincial Key Laboratory for Advanced Theranostics and Medical Instrumentation.</div>
   </li>
